@@ -1,0 +1,110 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:golden_shovel"
+    },
+    {
+      "item": "minecraft:golden_axe"
+    },
+    {
+      "item": "minecraft:golden_hoe"
+    },
+    {
+      "item": "minecraft:golden_sword"
+    },
+    {
+      "item": "minecraft:golden_helmet"
+    },
+    {
+      "item": "minecraft:golden_chestplate"
+    },
+    {
+      "item": "minecraft:golden_leggings"
+    },
+    {
+      "item": "minecraft:golden_boots"
+    },
+    {
+      "item": "minecraft:golden_horse_armor"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_gold"
+    },
+    {
+      "item": "spartanweaponry:glaive_gold"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_gold"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_gold"
+    },
+    {
+      "item": "spartanweaponry:boomerang_gold"
+    },
+    {
+      "item": "spartanweaponry:javelin_gold"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_gold"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_gold"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_gold"
+    },
+    {
+      "item": "spartanweaponry:longbow_gold"
+    },
+    {
+      "item": "spartanweaponry:lance_gold"
+    },
+    {
+      "item": "spartanweaponry:pike_gold"
+    },
+    {
+      "item": "spartanweaponry:halberd_gold"
+    },
+    {
+      "item": "spartanweaponry:spear_gold"
+    },
+    {
+      "item": "spartanweaponry:warhammer_gold"
+    },
+    {
+      "item": "spartanweaponry:hammer_gold"
+    },
+    {
+      "item": "spartanweaponry:greatsword_gold"
+    },
+    {
+      "item": "spartanweaponry:rapier_gold"
+    },
+    {
+      "item": "spartanweaponry:saber_gold"
+    },
+    {
+      "item": "spartanweaponry:katana_gold"
+    },
+    {
+      "item": "spartanweaponry:longsword_gold"
+    },
+    {
+      "item": "spartanweaponry:dagger_gold"
+    },
+    {
+      "item": "spartanshields:shield_basic_gold"
+    },
+    {
+      "item": "spartanshields:shield_tower_gold"
+    }
+  ],
+  "result": "minecraft:gold_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

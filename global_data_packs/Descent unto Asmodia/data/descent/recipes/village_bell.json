@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WWW",
+      "CXC",
+      "C C"
+    ],
+    "key": {
+      "W": {
+        "tag": "minecraft:logs"
+      },
+      "X": {
+        "item": "minecraft:gold_block"
+      },
+      "C": {
+          "tag": "forge:stone"
+      }
+    },
+    "result": {
+      "item": "minecraft:bell"
+    }
+  }

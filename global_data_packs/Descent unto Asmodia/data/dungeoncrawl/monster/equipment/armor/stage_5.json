@@ -1,0 +1,22 @@
+{
+  "helmet": [
+    {
+      "item": "minecraft:diamond_helmet"
+    }
+  ],
+  "chestplate": [
+    {
+      "item": "minecraft:diamond_chestplate"
+    }
+  ],
+  "leggings": [
+    {
+      "item": "minecraft:diamond_leggings"
+    }
+  ],
+  "boots": [
+    {
+      "item": "minecraft:diamond_boots"
+    }
+  ]
+}

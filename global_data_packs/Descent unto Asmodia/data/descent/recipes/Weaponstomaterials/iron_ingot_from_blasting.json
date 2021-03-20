@@ -1,0 +1,122 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "minecraft:iron_shovel"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "minecraft:iron_hoe"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:iron_helmet"
+    },
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "item": "minecraft:iron_leggings"
+    },
+    {
+      "item": "minecraft:iron_boots"
+    },
+    {
+      "item": "minecraft:iron_horse_armor"
+    },
+    {
+      "item": "minecraft:chainmail_helmet"
+    },
+    {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    {
+      "item": "minecraft:chainmail_leggings"
+    },
+    {
+      "item": "minecraft:chainmail_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_iron"
+    },
+    {
+      "item": "spartanweaponry:glaive_iron"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_iron"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_iron"
+    },
+    {
+      "item": "spartanweaponry:boomerang_iron"
+    },
+    {
+      "item": "spartanweaponry:javelin_iron"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_iron"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_iron"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_iron"
+    },
+    {
+      "item": "spartanweaponry:longbow_iron"
+    },
+    {
+      "item": "spartanweaponry:lance_iron"
+    },
+    {
+      "item": "spartanweaponry:pike_iron"
+    },
+    {
+      "item": "spartanweaponry:halberd_iron"
+    },
+    {
+      "item": "spartanweaponry:spear_iron"
+    },
+    {
+      "item": "spartanweaponry:warhammer_iron"
+    },
+    {
+      "item": "spartanweaponry:hammer_iron"
+    },
+    {
+      "item": "spartanweaponry:greatsword_iron"
+    },
+    {
+      "item": "spartanweaponry:rapier_iron"
+    },
+    {
+      "item": "spartanweaponry:saber_iron"
+    },
+    {
+      "item": "spartanweaponry:katana_iron"
+    },
+    {
+      "item": "spartanweaponry:longsword_iron"
+    },
+    {
+      "item": "spartanweaponry:dagger_iron"
+    },
+    {
+      "item": "spartanshields:shield_basic_iron"
+    },
+    {
+      "item": "spartanshields:shield_tower_iron"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

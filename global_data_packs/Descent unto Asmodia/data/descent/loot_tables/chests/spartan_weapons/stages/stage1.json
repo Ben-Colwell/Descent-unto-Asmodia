@@ -1,0 +1,24 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "descent:chests/spartan_weapons/copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "descent:chests/spartan_weapons/tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "descent:chests/spartan_weapons/stone",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,165 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:arrow_wood",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 5,
+                  "max": 20
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:quarterstaff_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:glaive_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:flanged_mace_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:battleaxe_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:boomerang_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:javelin_wood",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:tomahawk_wood",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:throwing_knife_wood",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:heavy_crossbow_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longbow_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:lance_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:pike_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:halberd_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:spear_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:warhammer_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:hammer_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:club_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:greatsword_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:rapier_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:saber_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:katana_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longsword_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:dagger_wood",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

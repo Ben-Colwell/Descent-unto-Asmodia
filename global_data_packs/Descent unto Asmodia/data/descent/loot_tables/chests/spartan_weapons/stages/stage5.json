@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "descent:chests/spartan_weapons/steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "descent:chests/spartan_weapons/diamond",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

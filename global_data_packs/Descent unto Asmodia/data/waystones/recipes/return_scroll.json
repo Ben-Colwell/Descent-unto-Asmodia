@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "waystones:return_scroll",
+    "count": 3
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  }
+}

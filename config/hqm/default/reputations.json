@@ -1,0 +1,108 @@
+[
+  {
+    "id": "5f04a888-c2f0-4c59-b32f-ed5313ff1ec4",
+    "name": "Mission Prospective",
+    "neutral": "Concerned",
+    "markers": [
+      {
+        "name": "Cancelled",
+        "value": -150
+      },
+      {
+        "name": "Near Cancellation",
+        "value": -100
+      },
+      {
+        "name": "In Peril",
+        "value": -80
+      },
+      {
+        "name": "In Danger",
+        "value": -60
+      },
+      {
+        "name": "On Probation",
+        "value": -45
+      },
+      {
+        "name": "Very Poor",
+        "value": -30
+      },
+      {
+        "name": "Poor",
+        "value": -15
+      },
+      {
+        "name": "Fair",
+        "value": 30
+      },
+      {
+        "name": "Good",
+        "value": 60
+      },
+      {
+        "name": "Very Good",
+        "value": 100
+      },
+      {
+        "name": "Excellent",
+        "value": 150
+      },
+      {
+        "name": "Superb",
+        "value": 200
+      },
+      {
+        "name": "Near Assured",
+        "value": 250
+      }
+    ]
+  },
+  {
+    "id": "2ca85ef2-0ae3-4eae-954a-301829e84337",
+    "name": "Sithynians",
+    "neutral": "Cautious",
+    "markers": [
+      {
+        "name": "Vengeful",
+        "value": -100
+      },
+      {
+        "name": "Distrusted",
+        "value": -60
+      },
+      {
+        "name": "Upset",
+        "value": -30
+      },
+      {
+        "name": "Wary",
+        "value": -15
+      },
+      {
+        "name": "Hopefull",
+        "value": 15
+      },
+      {
+        "name": "Pleased",
+        "value": 30
+      },
+      {
+        "name": "Acquaintances",
+        "value": 45
+      },
+      {
+        "name": "Partners",
+        "value": 60
+      },
+      {
+        "name": "Companions",
+        "value": 80
+      },
+      {
+        "name": "Friends",
+        "value": 100
+      }
+    ]
+  }
+]

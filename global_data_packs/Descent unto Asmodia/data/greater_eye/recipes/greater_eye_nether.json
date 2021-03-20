@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "greater_eye:greater_eye"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "biomesoplenty:nether_crystal"
+    },
+    { 
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "result": {
+    "item": "greater_eye:greater_eye_nether"
+  }
+}

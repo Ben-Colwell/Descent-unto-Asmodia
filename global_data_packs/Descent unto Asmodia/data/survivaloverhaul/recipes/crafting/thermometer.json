@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		" # ",
+		"#R#",
+		" # "
+	],
+	"key": 
+	{
+		"#":
+		{
+			"tag": "forge:glass/colorless"
+		},
+		"R":
+		{
+			"item": "survivaloverhaul:mercury_paste"
+		}
+	},
+	"result":
+	{
+		"item": "survivaloverhaul:thermometer"
+	}
+}

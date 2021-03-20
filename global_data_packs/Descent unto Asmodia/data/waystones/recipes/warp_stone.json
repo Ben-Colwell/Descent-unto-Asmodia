@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "waystones:warp_stone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EGE",
+    "DED"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:emerald_block"
+    },
+    "E": {
+      "item": "greater_eye:greater_eye"
+    },
+    "D": {
+      "item": "minecraft:chorus_fruit"
+    }
+  }
+}

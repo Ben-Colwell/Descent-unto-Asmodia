@@ -1,0 +1,1 @@
+craftingTable.removeByName("additionalenderitems:ender_torch");

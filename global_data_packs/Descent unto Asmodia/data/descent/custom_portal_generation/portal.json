@@ -1,0 +1,6 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": ["minecraft:overworld"],"to": "minecraft:the_end",
+  "form": {"type": "imm_ptl:convert_conventional_portal","portal_block": "betterendforge:end_portal_block"},
+  "trigger": {"type": "imm_ptl:conventional_dimension_change"}
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "dxl",
+    "xox",
+    "exg"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:redstone_block"
+    },
+    "o":
+    {
+      "item": "endrem:core"
+    },
+    "d":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "l":
+    {
+      "item": "minecraft:lapis_block"
+    },
+    "e":
+    {
+      "item": "minecraft:emerald_block"
+    },
+    "g":
+    {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result":
+  {
+    "item": "endrem:powered_core",
+    "count": 1
+  }
+}

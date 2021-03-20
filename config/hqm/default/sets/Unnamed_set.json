@@ -1,0 +1,32 @@
+{
+  "name": "Unnamed set",
+  "quests": [
+    {
+      "uuid": "64516ac9-947a-4b4c-8815-870896db3b14",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 17,
+      "tasks": [
+        {
+          "type": "COMPLETION",
+          "completed_quests": []
+        },
+        {
+          "type": "ADVANCEMENT",
+          "advancements": []
+        },
+        {
+          "type": "ADVANCEMENT",
+          "advancements": []
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

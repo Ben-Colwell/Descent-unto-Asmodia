@@ -1,0 +1,49 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_tower_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_tower_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_tower_stone",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_tower_wood",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_basic_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_basic_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_basic_stone",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanshields:shield_basic_wood",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

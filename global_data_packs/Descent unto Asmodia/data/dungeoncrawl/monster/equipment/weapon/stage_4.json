@@ -1,0 +1,17 @@
+{
+  "melee": [
+    {
+      "item": "minecraft:diamond_sword",
+      "weight": 1
+    },
+    {
+      "item": "minecraft:diamond_axe",
+      "weight": 1
+    }
+  ],
+  "ranged": [
+    {
+      "item": "minecraft:bow"
+    }
+  ]
+}

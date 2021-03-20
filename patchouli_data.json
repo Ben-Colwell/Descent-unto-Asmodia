@@ -1,0 +1,18 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "betterendforge:guidebook": {
+      "viewedEntries": [
+        "betterendforge:rituals/eternal_ritual",
+        "betterendforge:rituals/infusion_ritual"
+      ],
+      "bookmarks": [],
+      "history": [
+        "betterendforge:rituals/eternal_ritual",
+        "betterendforge:rituals/infusion_ritual"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

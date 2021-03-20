@@ -1,0 +1,52 @@
+{
+  "name": "The Science Department",
+  "quests": [
+    {
+      "uuid": "0fee6ca5-c1d6-4d80-ac19-60d3474c71f2",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 83,
+      "y": 41,
+      "icon": {
+        "id": "minecraft:enchanted_book",
+        "Count": 1,
+        "tag": {
+          "display": {
+            "Lore": [
+              "{\"bold\":true,\"italic\":true,\"text\":\"Perhaps I should show this to the science department\"}"
+            ],
+            "Name": "{\"text\":\"Ancient Tome\"}"
+          }
+        }
+      },
+      "trigger": "ANTI_TRIGGER",
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:enchanted_book",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Lore": [
+                      "{\"bold\":true,\"italic\":true,\"text\":\"Perhaps I should show this to the science department\"}"
+                    ],
+                    "Name": "{\"text\":\"Ancient Tome\"}"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

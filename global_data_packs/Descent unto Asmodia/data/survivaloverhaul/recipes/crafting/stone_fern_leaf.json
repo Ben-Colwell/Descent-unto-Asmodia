@@ -1,0 +1,22 @@
+{
+    "result": {
+      "item": "survivaloverhaul:stone_fern_leaf"
+    },
+    "pattern": [
+      "III",
+      "mFm",
+      "III"
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "m": {
+        "item": "survivaloverhaul:mercury_paste"
+      },
+      "I": {
+        "item": "minecraft:packed_ice"
+      },
+      "F": {
+        "item": "minecraft:warped_roots"
+      }
+    }
+  }

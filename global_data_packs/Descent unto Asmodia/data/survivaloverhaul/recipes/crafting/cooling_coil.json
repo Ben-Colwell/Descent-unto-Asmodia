@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"LqL",
+		"mqm",
+		"#R#"
+	],
+	"key": 
+	{
+		"#":
+		{
+			"item": "minecraft:stone"
+		},
+		"q":
+		{
+			"item": "minecraft:quartz"
+		},
+		"L":
+		{
+			"item": "minecraft:packed_ice"
+		},
+		"R":
+		{
+			"item": "minecraft:redstone"
+		},
+		"m":
+		{
+			"item": "survivaloverhaul:mercury_paste"
+		}
+	},
+	"result":
+	{
+		"item": "survivaloverhaul:cooling_coil"
+	}
+}

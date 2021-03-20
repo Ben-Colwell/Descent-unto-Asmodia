@@ -1,0 +1,1 @@
+craftingTable.removeByName("bhc:god_apple");

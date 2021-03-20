@@ -1,0 +1,146 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:quarterstaff_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:glaive_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:flanged_mace_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:battleaxe_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:boomerang_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:javelin_tin",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:tomahawk_tin",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:throwing_knife_tin",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:heavy_crossbow_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longbow_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:lance_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:pike_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:halberd_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:spear_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:warhammer_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:hammer_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:greatsword_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:rapier_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:saber_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:katana_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longsword_tin",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:dagger_tin",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

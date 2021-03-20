@@ -1,0 +1,41 @@
+{
+  "name": "Survivalist",
+  "quests": [
+    {
+      "uuid": "bc6eae45-fa55-41e3-9df2-a3e9b1025325",
+      "name": "The Material Transmitter",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 38,
+      "icon": {
+        "id": "hardcorequesting:quest_book",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "5f04a888-c2f0-4c59-b32f-ed5313ff1ec4",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

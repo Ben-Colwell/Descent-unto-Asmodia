@@ -1,0 +1,264 @@
+{
+  "name": "The Survivalist",
+  "quests": [
+    {
+      "uuid": "38b2dedc-05ff-4f11-87ea-30c1cb9c0817",
+      "name": "Reviewing the basics",
+      "description": "Get wood",
+      "x": 16,
+      "y": 73,
+      "icon": {
+        "id": "minecraft:oak_log",
+        "Count": 1
+      },
+      "trigger": "ANTI_TRIGGER",
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_log",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:stone_axe",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:stone_shovel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:stone_pickaxe",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": []
+        }
+      ],
+      "prerequisites": [
+        "ea882399-ddc5-45de-9781-859649174c85"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bc6eae45-fa55-41e3-9df2-a3e9b1025325",
+      "name": "The Material Transmitter",
+      "description": "Introduce the quest book",
+      "x": 16,
+      "y": 11,
+      "icon": {
+        "id": "hardcorequesting:quest_book",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "5f04a888-c2f0-4c59-b32f-ed5313ff1ec4",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1e0c6f4b-2aa1-46ba-bcc4-7cb570ead594",
+      "name": "No Tutorial Please",
+      "description": "If you don\u0027t want a tutorial on getting started, please give me one dirt block. Note that you will not get it back.",
+      "x": 47,
+      "y": 38,
+      "icon": {
+        "id": "minecraft:dirt",
+        "Count": 1
+      },
+      "trigger": "ANTI_TRIGGER",
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bc6eae45-fa55-41e3-9df2-a3e9b1025325"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7b0db033-39b8-43a5-b395-a4d940e0ffb7",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 47,
+      "y": 73,
+      "icon": {
+        "id": "minecraft:stone_pickaxe",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:furnace",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:stone_pickaxe",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:stone_axe",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:stone_shovel",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "1e0c6f4b-2aa1-46ba-bcc4-7cb570ead594"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ea882399-ddc5-45de-9781-859649174c85",
+      "name": "Tutorials Please",
+      "description": "If you want a tutorial on getting started, please give me one dirt block. Note that you will not get it back.",
+      "x": 16,
+      "y": 39,
+      "icon": {
+        "id": "minecraft:dirt",
+        "Count": 1
+      },
+      "trigger": "ANTI_TRIGGER",
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bc6eae45-fa55-41e3-9df2-a3e9b1025325"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

@@ -1,0 +1,22 @@
+{
+    "result": {
+      "item": "survivaloverhaul:infernal_fern_leaf"
+    },
+    "pattern": [
+      "III",
+      "mFm",
+      "III"
+    ],
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "m": {
+        "item": "survivaloverhaul:mercury_paste"
+      },
+      "I": {
+        "item": "minecraft:blaze_powder"
+      },
+      "F": {
+        "item": "minecraft:crimson_roots"
+      }
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SWS",
+    "PWP",
+    "SWS"
+  ],
+  "key": {
+    "P": { "item": "minecraft:paper" },
+    "W": { "tag": "minecraft:wool" },
+    "S": { "item": "minecraft:gold_ingot"}
+  },
+  "result": {
+    "item": "syp:pet_bandage"
+  }
+}

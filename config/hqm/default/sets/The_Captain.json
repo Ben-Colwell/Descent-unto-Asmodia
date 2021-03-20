@@ -1,0 +1,18 @@
+{
+  "name": "The Captain",
+  "quests": [
+    {
+      "uuid": "680867e0-3739-47e7-9072-882548d8d3ed",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 51,
+      "y": 22,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}
