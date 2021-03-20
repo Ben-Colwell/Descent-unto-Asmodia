@@ -1,8 +1,0 @@
-{
-  "minecraft:lava": {
-    "temperature": 10.0
-  },
-  "minecraft:flowing_lava": {
-    "temperature": 10.0
-  }
-}
