@@ -5,12 +5,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "descent:chests/spartan_weapons/copper",
-            "weight": 1
-          },
-          {
-            "type": "minecraft:loot_table",
-            "name": "descent:chests/spartan_weapons/tin",
+            "name": "descent:chests/spartan_weapons/steel",
             "weight": 1
           },
           {

@@ -3,11 +3,27 @@
     {
       "item": "minecraft:iron_helmet",
       "weight": 1
+    },
+    {
+      "item": "moat:tin_helmet",
+      "weight": 1
+    },
+    {
+      "item": "moat:copper_helmet",
+      "weight": 1
     }
   ],
   "chestplate": [
     {
       "item": "minecraft:iron_chestplate",
+      "weight": 1
+    },
+    {
+      "item": "moat:tin_chestplate",
+      "weight": 1
+    },
+    {
+      "item": "moat:copper_chestplate",
       "weight": 1
     }
   ],
@@ -15,11 +31,27 @@
     {
       "item": "minecraft:iron_leggings",
       "weight": 1
+    },
+    {
+      "item": "moat:tin_leggings",
+      "weight": 1
+    },
+    {
+      "item": "moat:copper_leggings",
+      "weight": 1
     }
   ],
   "boots": [
     {
       "item": "minecraft:iron_boots",
+      "weight": 1
+    },
+    {
+      "item": "moat:tin_boots",
+      "weight": 1
+    },
+    {
+      "item": "moat:copper_boots",
       "weight": 1
     }
   ]

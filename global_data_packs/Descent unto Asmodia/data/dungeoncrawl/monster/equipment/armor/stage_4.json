@@ -1,22 +1,58 @@
 {
   "helmet": [
     {
-      "item": "minecraft:diamond_helmet"
+      "item": "moat:silver_helmet",
+      "weight": 1
+    },
+    {
+      "item": "moat:steel_helmet",
+      "weight": 1
+    },
+    {
+      "item": "moat:lead_helmet",
+      "weight": 1
     }
   ],
   "chestplate": [
     {
-      "item": "minecraft:diamond_chestplate"
+      "item": "moat:silver_chestplate",
+      "weight": 1
+    },
+    {
+      "item": "moat:steel_chestplate",
+      "weight": 1
+    },
+    {
+      "item": "moat:lead_chestplate",
+      "weight": 1
     }
   ],
   "leggings": [
     {
-      "item": "minecraft:diamond_leggings"
+      "item": "moat:silver_leggings",
+      "weight": 1
+    },
+    {
+      "item": "moat:steel_leggings",
+      "weight": 1
+    },
+    {
+      "item": "moat:lead_leggings",
+      "weight": 1
     }
   ],
   "boots": [
     {
-      "item": "minecraft:diamond_boots"
+      "item": "moat:silver_boots",
+      "weight": 1
+    },
+    {
+      "item": "moat:steel_boots",
+      "weight": 1
+    },
+    {
+      "item": "moat:lead_boots",
+      "weight": 1
     }
   ]
 }

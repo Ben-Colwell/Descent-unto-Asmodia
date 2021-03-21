@@ -37,9 +37,9 @@
 
 [Forestry]
 	#Range: 0.0 ~ 1.0
-	golden_oak_spawn_chance = 0.005
+	golden_oak_spawn_chance = 0.0
 	#Range: 0 ~ 100
-	tall_forest_spawn_weight = 3
+	tall_forest_spawn_weight = 0
 
 [Miscellaneous]
 	#Range: 0.0 ~ 1.0
@@ -48,13 +48,13 @@
 
 [Paradise]
 	#Range: 0 ~ 1000
-	seahorse_spawn_weight = 8
+	seahorse_spawn_weight = 0
 	#Range: 0 ~ 1000
-	seahorse_tame_chance = 5
+	seahorse_tame_chance = 0
 	rideable_seahorses = true
 	seahorse_spawn_biomes = "minecraft:warm_ocean,minecraft:deep_warm_ocean"
 	#Range: 0 ~ 1000
-	large_seahorse_spawn_chance = 25
+	large_seahorse_spawn_chance = 0
 	#Range: 0 ~ 100
 	tropical_plains_spawn_weight = 2
 	#Range: 0 ~ 1000

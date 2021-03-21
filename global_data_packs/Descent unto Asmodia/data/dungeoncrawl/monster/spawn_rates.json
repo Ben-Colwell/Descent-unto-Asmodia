@@ -1,7 +1,27 @@
 {
   "level_1": {
     "delay": {
-      "min": 10,
+      "min": 60,
+      "max": 80
+    },
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  "level_2": {
+    "delay": {
+      "min": 60,
+      "max": 80
+    },
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  "level_3": {
+    "delay": {
+      "min": 60,
       "max": 80
     },
     "amount": {
@@ -9,44 +29,24 @@
       "max": 3
     }
   },
-  "level_2": {
+  "level_4": {
     "delay": {
-      "min": 10,
-      "max": 70
+      "min": 80,
+      "max": 80
     },
     "amount": {
       "min": 2,
-      "max": 4
-    }
-  },
-  "level_3": {
-    "delay": {
-      "min": 10,
-      "max": 60
-    },
-    "amount": {
-      "min": 3,
-      "max": 4
-    }
-  },
-  "level_4": {
-    "delay": {
-      "min": 10,
-      "max": 60
-    },
-    "amount": {
-      "min": 3,
-      "max": 4
+      "max": 3
     }
   },
   "level_5": {
     "delay": {
-      "min": 10,
-      "max": 60
+      "min": 80,
+      "max": 100
     },
     "amount": {
-      "min": 3,
-      "max": 4
+      "min": 2,
+      "max": 3
     }
   }
 }

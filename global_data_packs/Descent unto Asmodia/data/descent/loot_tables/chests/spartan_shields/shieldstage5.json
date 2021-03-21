@@ -1,39 +1,29 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_tower_diamond",
-            "weight": 1
-          },          
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_tower_obsidian",
-            "weight": 1
-          },
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_tower_steel",
-            "weight": 1
-          },
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_basic_diamond",
-            "weight": 1
-          },   
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_basic_obsidian",
-            "weight": 1
-          },
-          {
-            "type": "minecraft:item",
-            "name": "spartanshields:shield_basic_steel",
-            "weight": 1
-          }
-        ]
-      }
-    ]
-  }
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/platinum",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/lead",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/diamond",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/obsidian",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

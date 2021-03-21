@@ -1,17 +1,206 @@
 {
   "melee": [
-    {
-      "item": "minecraft:diamond_sword",
-      "weight": 1
-    },
-    {
-      "item": "minecraft:diamond_axe",
-      "weight": 1
-    }
+      {
+          "item": "spartanweaponry:quarterstaff_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:glaive_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:flanged_mace_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:battleaxe_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:lance_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:pike_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:halberd_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:spear_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:warhammer_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:hammer_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:greatsword_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:rapier_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:saber_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:katana_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:longsword_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:dagger_platinum",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:quarterstaff_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:glaive_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:flanged_mace_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:battleaxe_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:lance_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:pike_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:halberd_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:spear_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:warhammer_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:hammer_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:greatsword_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:rapier_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:saber_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:katana_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:longsword_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:dagger_lead",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:quarterstaff_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:glaive_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:flanged_mace_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:battleaxe_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:lance_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:pike_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:halberd_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:spear_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:warhammer_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:hammer_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:greatsword_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:rapier_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:saber_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:katana_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:longsword_diamond",
+          "weight": 1
+        },
+        {
+          "item": "spartanweaponry:dagger_diamond",
+          "weight": 1
+        }
   ],
   "ranged": [
-    {
-      "item": "minecraft:bow"
-    }
+  {
+      "item": "minecraft:bow",
+      "weight": 1
+  },
+  {
+      "item": "minecraft:crossbow",
+      "weight": 1
+  }
   ]
 }

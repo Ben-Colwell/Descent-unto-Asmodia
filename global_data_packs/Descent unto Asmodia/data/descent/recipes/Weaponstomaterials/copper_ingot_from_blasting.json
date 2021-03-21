@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "moat:copper_pickaxe"
+    },
+    {
+      "item": "moat:copper_shovel"
+    },
+    {
+      "item": "moat:copper_axe"
+    },
+    {
+      "item": "moat:copper_hoe"
+    },
+    {
+      "item": "moat:copper_sword"
+    },
+    {
+      "item": "moat:copper_helmet"
+    },
+    {
+      "item": "moat:copper_chestplate"
+    },
+    {
+      "item": "moat:copper_leggings"
+    },
+    {
+      "item": "moat:copper_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_copper"
+    },
+    {
+      "item": "spartanweaponry:glaive_copper"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_copper"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_copper"
+    },
+    {
+      "item": "spartanweaponry:boomerang_copper"
+    },
+    {
+      "item": "spartanweaponry:javelin_copper"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_copper"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_copper"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_copper"
+    },
+    {
+      "item": "spartanweaponry:longbow_copper"
+    },
+    {
+      "item": "spartanweaponry:lance_copper"
+    },
+    {
+      "item": "spartanweaponry:pike_copper"
+    },
+    {
+      "item": "spartanweaponry:halberd_copper"
+    },
+    {
+      "item": "spartanweaponry:spear_copper"
+    },
+    {
+      "item": "spartanweaponry:warhammer_copper"
+    },
+    {
+      "item": "spartanweaponry:hammer_copper"
+    },
+    {
+      "item": "spartanweaponry:greatsword_copper"
+    },
+    {
+      "item": "spartanweaponry:rapier_copper"
+    },
+    {
+      "item": "spartanweaponry:saber_copper"
+    },
+    {
+      "item": "spartanweaponry:katana_copper"
+    },
+    {
+      "item": "spartanweaponry:longsword_copper"
+    },
+    {
+      "item": "spartanweaponry:dagger_copper"
+    },
+    {
+      "item": "spartanshields:shield_basic_copper"
+    },
+    {
+      "item": "spartanshields:shield_tower_copper"
+    }
+  ],
+  "result": "moat:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

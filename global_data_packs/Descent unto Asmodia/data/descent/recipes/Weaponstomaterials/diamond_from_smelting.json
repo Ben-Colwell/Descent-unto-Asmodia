@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "minecraft:diamond_shovel"
+    },
+    {
+      "item": "minecraft:diamond_axe"
+    },
+    {
+      "item": "minecraft:diamond_hoe"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "minecraft:diamond_helmet"
+    },
+    {
+      "item": "minecraft:diamond_chestplate"
+    },
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "item": "minecraft:diamond_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_diamond"
+    },
+    {
+      "item": "spartanweaponry:glaive_diamond"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_diamond"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_diamond"
+    },
+    {
+      "item": "spartanweaponry:boomerang_diamond"
+    },
+    {
+      "item": "spartanweaponry:javelin_diamond"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_diamond"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_diamond"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_diamond"
+    },
+    {
+      "item": "spartanweaponry:longbow_diamond"
+    },
+    {
+      "item": "spartanweaponry:lance_diamond"
+    },
+    {
+      "item": "spartanweaponry:pike_diamond"
+    },
+    {
+      "item": "spartanweaponry:halberd_diamond"
+    },
+    {
+      "item": "spartanweaponry:spear_diamond"
+    },
+    {
+      "item": "spartanweaponry:warhammer_diamond"
+    },
+    {
+      "item": "spartanweaponry:hammer_diamond"
+    },
+    {
+      "item": "spartanweaponry:greatsword_diamond"
+    },
+    {
+      "item": "spartanweaponry:rapier_diamond"
+    },
+    {
+      "item": "spartanweaponry:saber_diamond"
+    },
+    {
+      "item": "spartanweaponry:katana_diamond"
+    },
+    {
+      "item": "spartanweaponry:longsword_diamond"
+    },
+    {
+      "item": "spartanweaponry:dagger_diamond"
+    },
+    {
+      "item": "spartanshields:shield_basic_diamond"
+    },
+    {
+      "item": "spartanshields:shield_tower_diamond"
+    }
+  ],
+  "result": "minecraft:diamond",
+  "experience": 0.1,
+  "cookingtime": 200
+}

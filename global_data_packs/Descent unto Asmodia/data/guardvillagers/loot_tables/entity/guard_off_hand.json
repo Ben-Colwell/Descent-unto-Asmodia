@@ -5,14 +5,48 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:shield",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.5
-            }
-          ]
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/tin"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/copper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/bronze"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/steel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/silver"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/lead"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/platinum"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/iron"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/diamond"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/gold"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/obsidian"
         }
       ]
     }

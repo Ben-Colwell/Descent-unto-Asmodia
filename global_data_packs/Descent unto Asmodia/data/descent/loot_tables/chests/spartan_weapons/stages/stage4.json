@@ -10,12 +10,12 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "descent:chests/spartan_weapons/bronze",
+            "name": "descent:chests/spartan_weapons/lead",
             "weight": 1
           },
           {
             "type": "minecraft:loot_table",
-            "name": "descent:chests/spartan_weapons/iron",
+            "name": "descent:chests/spartan_weapons/silver",
             "weight": 1
           }
         ]

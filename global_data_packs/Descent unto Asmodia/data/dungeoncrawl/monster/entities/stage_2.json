@@ -9,15 +9,18 @@
       "weight": 2
     },
     {
-      "entity": "minecraft:spider"
+      "entity": "minecraft:cave_spider",
+      "weight": 1
     }
   ],
   "rare": [
     {
-      "entity": "minecraft:creeper"
+      "entity": "minecraft:stray",
+      "weight": 1
     },
     {
-      "entity": "minecraft:stray"
+      "entity": "minecraft:wither_skeleton",
+      "weight": 1
     }
   ]
 }

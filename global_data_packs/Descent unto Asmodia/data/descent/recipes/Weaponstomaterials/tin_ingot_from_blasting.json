@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "moat:tin_pickaxe"
+    },
+    {
+      "item": "moat:tin_shovel"
+    },
+    {
+      "item": "moat:tin_axe"
+    },
+    {
+      "item": "moat:tin_hoe"
+    },
+    {
+      "item": "moat:tin_sword"
+    },
+    {
+      "item": "moat:tin_helmet"
+    },
+    {
+      "item": "moat:tin_chestplate"
+    },
+    {
+      "item": "moat:tin_leggings"
+    },
+    {
+      "item": "moat:tin_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_tin"
+    },
+    {
+      "item": "spartanweaponry:glaive_tin"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_tin"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_tin"
+    },
+    {
+      "item": "spartanweaponry:boomerang_tin"
+    },
+    {
+      "item": "spartanweaponry:javelin_tin"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_tin"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_tin"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_tin"
+    },
+    {
+      "item": "spartanweaponry:longbow_tin"
+    },
+    {
+      "item": "spartanweaponry:lance_tin"
+    },
+    {
+      "item": "spartanweaponry:pike_tin"
+    },
+    {
+      "item": "spartanweaponry:halberd_tin"
+    },
+    {
+      "item": "spartanweaponry:spear_tin"
+    },
+    {
+      "item": "spartanweaponry:warhammer_tin"
+    },
+    {
+      "item": "spartanweaponry:hammer_tin"
+    },
+    {
+      "item": "spartanweaponry:greatsword_tin"
+    },
+    {
+      "item": "spartanweaponry:rapier_tin"
+    },
+    {
+      "item": "spartanweaponry:saber_tin"
+    },
+    {
+      "item": "spartanweaponry:katana_tin"
+    },
+    {
+      "item": "spartanweaponry:longsword_tin"
+    },
+    {
+      "item": "spartanweaponry:dagger_tin"
+    },
+    {
+      "item": "spartanshields:shield_basic_tin"
+    },
+    {
+      "item": "spartanshields:shield_tower_tin"
+    }
+  ],
+  "result": "moat:tin_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

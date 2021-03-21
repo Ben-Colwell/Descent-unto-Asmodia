@@ -1,1 +1,206 @@
-{}
+{
+    "melee": [
+        {
+            "item": "spartanweaponry:quarterstaff_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:glaive_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:flanged_mace_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:battleaxe_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:lance_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:pike_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:halberd_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:spear_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:warhammer_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:hammer_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:greatsword_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:rapier_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:saber_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:katana_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:longsword_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:dagger_iron",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:quarterstaff_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:glaive_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:flanged_mace_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:battleaxe_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:lance_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:pike_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:halberd_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:spear_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:warhammer_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:hammer_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:greatsword_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:rapier_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:saber_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:katana_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:longsword_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:dagger_bronze",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:quarterstaff_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:glaive_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:flanged_mace_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:battleaxe_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:lance_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:pike_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:halberd_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:spear_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:warhammer_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:hammer_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:greatsword_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:rapier_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:saber_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:katana_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:longsword_steel",
+            "weight": 1
+          },
+          {
+            "item": "spartanweaponry:dagger_steel",
+            "weight": 1
+          }
+    ],
+    "ranged": [
+    {
+        "item": "minecraft:bow",
+        "weight": 1
+    },
+    {
+        "item": "minecraft:crossbow",
+        "weight": 1
+    }
+    ]
+  }

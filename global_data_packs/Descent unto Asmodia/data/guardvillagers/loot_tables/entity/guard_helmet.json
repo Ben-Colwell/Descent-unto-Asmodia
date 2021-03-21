@@ -5,63 +5,48 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:empty",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.98
-            }
-          ]
+          "type": "minecraft:item",
+          "name": "moat:tin_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_helmet",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.032
-            }
-          ]
+          "name": "moat:copper_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:golden_helmet",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.048
-            }
-          ]
+          "name": "moat:bronze_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_helmet",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.012
-            }
-          ]
+          "name": "moat:steel_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.0127
-            }
-          ]
+          "name": "moat:silver_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_helmet",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.004
-            }
-          ]
+          "name": "moat:lead_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "moat:platinum_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet"
         }
       ]
     }

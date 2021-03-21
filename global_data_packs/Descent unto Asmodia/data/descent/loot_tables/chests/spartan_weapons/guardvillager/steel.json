@@ -1,0 +1,99 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:quarterstaff_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:glaive_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:flanged_mace_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:battleaxe_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:heavy_crossbow_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longbow_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:lance_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:pike_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:halberd_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:spear_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:warhammer_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:hammer_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:greatsword_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:rapier_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:saber_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:katana_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longsword_steel",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:dagger_steel",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

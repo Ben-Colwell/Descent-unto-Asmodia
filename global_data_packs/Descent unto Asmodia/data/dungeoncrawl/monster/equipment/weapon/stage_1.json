@@ -1,17 +1,206 @@
 {
   "melee": [
     {
-      "item": "minecraft:iron_sword",
+      "item": "spartanweaponry:quarterstaff_tin",
       "weight": 1
     },
     {
-      "item": "minecraft:iron_axe",
+      "item": "spartanweaponry:glaive_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:battleaxe_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:lance_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:pike_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:halberd_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:spear_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:warhammer_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:hammer_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:greatsword_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:rapier_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:saber_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:katana_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:longsword_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:dagger_tin",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:glaive_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:battleaxe_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:lance_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:pike_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:halberd_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:spear_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:warhammer_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:hammer_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:greatsword_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:rapier_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:saber_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:katana_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:longsword_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:dagger_copper",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:glaive_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:battleaxe_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:lance_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:pike_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:halberd_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:spear_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:warhammer_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:hammer_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:greatsword_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:rapier_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:saber_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:katana_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:longsword_iron",
+      "weight": 1
+    },
+    {
+      "item": "spartanweaponry:dagger_iron",
       "weight": 1
     }
   ],
   "ranged": [
     {
-      "item": "minecraft:bow"
+      "item": "minecraft:bow",
+      "weight": 1
+    },
+    {
+      "item": "minecraft:crossbow",
+      "weight": 1
     }
   ]
 }

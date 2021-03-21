@@ -1,0 +1,146 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:quarterstaff_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:glaive_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:flanged_mace_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:battleaxe_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:boomerang_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:javelin_copper",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:tomahawk_copper",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:throwing_knife_copper",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 5
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:heavy_crossbow_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longbow_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:lance_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:pike_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:halberd_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:spear_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:warhammer_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:hammer_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:greatsword_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:rapier_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:saber_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:katana_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longsword_copper",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:dagger_copper",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,99 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:quarterstaff_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:glaive_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:flanged_mace_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:battleaxe_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:heavy_crossbow_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longbow_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:lance_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:pike_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:halberd_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:spear_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:warhammer_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:hammer_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:greatsword_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:rapier_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:saber_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:katana_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:longsword_platinum",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "spartanweaponry:dagger_platinum",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }

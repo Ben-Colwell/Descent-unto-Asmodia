@@ -1,7 +1,7 @@
     {
       "pools": [
         {
-          "rolls": 3,
+          "rolls": 2,
           "entries": [
             {
               "type": "loot_table",
@@ -11,27 +11,27 @@
           "conditions": [
             {
               "condition": "random_chance",
-              "chance": 0.75
+              "chance": 1.0
             }
           ]
         },
     {
-      "rolls": 3,
+      "rolls": 2,
       "entries": [
         {
           "type": "loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins5"
         }
       ],
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 1.0
         }
       ]
     },
     {
-      "rolls": 3,
+      "rolls": 2,
       "entries": [
         {
           "type": "loot_table",
@@ -48,12 +48,12 @@
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 1.0
         }
       ]
     },
     {
-      "rolls": 3,
+      "rolls": 2,
       "entries": [
         {
           "type": "loot_table",
@@ -70,7 +70,7 @@
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 1.0
         }
       ]
     },

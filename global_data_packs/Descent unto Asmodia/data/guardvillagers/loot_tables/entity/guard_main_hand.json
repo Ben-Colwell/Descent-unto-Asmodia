@@ -5,8 +5,44 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_sword"
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/tin"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/copper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/bronze"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/steel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/silver"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/lead"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/platinum"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/iron"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/diamond"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_weapons/guardvillager/gold"
         },
         {
           "type": "minecraft:item",

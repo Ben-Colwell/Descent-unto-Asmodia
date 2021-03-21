@@ -1,7 +1,7 @@
 #The percentage of normal damage taken when taking damage from falling into leaves.
 #The damage will be reduced by a further 10% with the Jump Boost potion effect.
 #Range: 0.0 ~ 1.0
-fallDamageReduction = 1.0
+fallDamageReduction = 0.25
 #When falling into leaves, the (block) distance a player or mob has to fall before taking damage.
 #Range: 5 ~ 255
 fallDamageThreshold = 10

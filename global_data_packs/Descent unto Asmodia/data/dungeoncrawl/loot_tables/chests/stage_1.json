@@ -11,7 +11,7 @@
           "conditions": [
             {
               "condition": "random_chance",
-              "chance": 0.75
+              "chance": 0.50
             }
           ]
         },
@@ -20,13 +20,13 @@
       "entries": [
         {
           "type": "loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins1"
         }
       ],
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -48,7 +48,7 @@
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -70,7 +70,7 @@
       "conditions": [
         {
           "condition": "random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -154,6 +154,34 @@
         {
           "type": "item",
           "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "moat:tin_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "moat:copper_ingot",
           "functions": [
             {
               "function": "set_count",

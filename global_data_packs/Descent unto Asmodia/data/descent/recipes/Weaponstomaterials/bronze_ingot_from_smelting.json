@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "moat:bronze_pickaxe"
+    },
+    {
+      "item": "moat:bronze_shovel"
+    },
+    {
+      "item": "moat:bronze_axe"
+    },
+    {
+      "item": "moat:bronze_hoe"
+    },
+    {
+      "item": "moat:bronze_sword"
+    },
+    {
+      "item": "moat:bronze_helmet"
+    },
+    {
+      "item": "moat:bronze_chestplate"
+    },
+    {
+      "item": "moat:bronze_leggings"
+    },
+    {
+      "item": "moat:bronze_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_bronze"
+    },
+    {
+      "item": "spartanweaponry:glaive_bronze"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_bronze"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_bronze"
+    },
+    {
+      "item": "spartanweaponry:boomerang_bronze"
+    },
+    {
+      "item": "spartanweaponry:javelin_bronze"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_bronze"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_bronze"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_bronze"
+    },
+    {
+      "item": "spartanweaponry:longbow_bronze"
+    },
+    {
+      "item": "spartanweaponry:lance_bronze"
+    },
+    {
+      "item": "spartanweaponry:pike_bronze"
+    },
+    {
+      "item": "spartanweaponry:halberd_bronze"
+    },
+    {
+      "item": "spartanweaponry:spear_bronze"
+    },
+    {
+      "item": "spartanweaponry:warhammer_bronze"
+    },
+    {
+      "item": "spartanweaponry:hammer_bronze"
+    },
+    {
+      "item": "spartanweaponry:greatsword_bronze"
+    },
+    {
+      "item": "spartanweaponry:rapier_bronze"
+    },
+    {
+      "item": "spartanweaponry:saber_bronze"
+    },
+    {
+      "item": "spartanweaponry:katana_bronze"
+    },
+    {
+      "item": "spartanweaponry:longsword_bronze"
+    },
+    {
+      "item": "spartanweaponry:dagger_bronze"
+    },
+    {
+      "item": "spartanshields:shield_basic_bronze"
+    },
+    {
+      "item": "spartanshields:shield_tower_bronze"
+    }
+  ],
+  "result": "moat:bronze_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

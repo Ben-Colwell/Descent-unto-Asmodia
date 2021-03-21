@@ -1,0 +1,613 @@
+{
+  "betterendforge:recipes/betterendforge/golden_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_ladder": {
+    "criteria": {
+      "has_key_item_0": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_stairs": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-03-20 15:55:13 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone/stone_window2_2tall": {
+    "criteria": {
+      "has_planks": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-03-20 17:33:12 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone/stone_window2": {
+    "criteria": {
+      "has_planks": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-03-20 23:19:07 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_slab_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/slay_all_rotspawn": {
+    "criteria": {
+      "slay_rotwalker": "2021-03-21 00:01:41 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "additionalenderitems:recipes/additionalenderitemsitemgroup/ender_jukebox": {
+    "criteria": {
+      "has_item": "2021-03-21 00:49:24 -0400"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2021-03-20 17:25:36 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2021-03-20 15:53:34 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone/stone_win_2tall": {
+    "criteria": {
+      "has_planks": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra": {
+    "criteria": {
+      "has_item": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2021-03-21 00:49:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-03-20 23:19:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2021-03-21 00:49:24 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/decorations/stone_wall": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_torch": {
+    "criteria": {
+      "has_key_item_0": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-03-20 17:42:53 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bamboo_blossom_grove": "2021-03-20 17:17:09 -0400"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/decorations/obsidian_wall_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_plank": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-03-20 17:54:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/decorations/obsidian_wall": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "regrowth:story/safer_hedges": {
+    "criteria": {
+      "inv_changed-minecraft:oak_leaves": "2021-03-20 22:37:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2021-03-21 00:02:26 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_post": {
+    "criteria": {
+      "has_key_item_0": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2021-03-20 17:42:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2021-03-21 00:49:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2021-03-21 00:02:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-03-20 23:14:23 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bamboo_blossom_grove": "2021-03-20 17:17:09 -0400",
+      "redwood_forest_edge": "2021-03-20 23:13:43 -0400",
+      "tundra_basin": "2021-03-20 22:11:51 -0400",
+      "grove_clearing": "2021-03-20 22:35:18 -0400",
+      "seasonal_orchard": "2021-03-20 17:37:59 -0400",
+      "seasonal_forest": "2021-03-20 17:37:58 -0400",
+      "lavender_field": "2021-03-21 00:00:38 -0400",
+      "snowy_coniferous_forest": "2021-03-20 22:11:15 -0400",
+      "tundra": "2021-03-20 17:45:39 -0400",
+      "grove": "2021-03-20 22:36:16 -0400",
+      "undergrowth": "2021-03-20 17:17:37 -0400"
+    },
+    "done": false
+  },
+  "additionalenderitems:recipes/additionalenderitemsitemgroup/pearl_stack": {
+    "criteria": {
+      "has_item": "2021-03-21 00:49:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-03-20 17:33:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2021-03-20 17:43:12 -0400",
+      "minecraft:forest": "2021-03-20 23:15:10 -0400",
+      "minecraft:taiga": "2021-03-20 15:53:34 -0400",
+      "minecraft:giant_tree_taiga": "2021-03-20 17:13:26 -0400",
+      "minecraft:deep_cold_ocean": "2021-03-21 00:00:22 -0400",
+      "minecraft:birch_forest": "2021-03-20 15:55:28 -0400",
+      "minecraft:river": "2021-03-20 17:16:58 -0400",
+      "minecraft:snowy_taiga": "2021-03-20 22:32:37 -0400",
+      "minecraft:birch_forest_hills": "2021-03-21 00:41:09 -0400",
+      "minecraft:giant_tree_taiga_hills": "2021-03-20 17:16:46 -0400",
+      "minecraft:savanna": "2021-03-20 23:22:22 -0400",
+      "minecraft:plains": "2021-03-20 23:12:50 -0400"
+    },
+    "done": false
+  },
+  "adorn:recipes/trading_station": {
+    "criteria": {
+      "has_key_item_0": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-03-20 17:11:57 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_item": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catalyst": {
+    "criteria": {
+      "has_cloggrum": "2021-03-20 17:36:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2021-03-20 17:17:44 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/building_blocks/obsidian_stairs_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-03-20 17:32:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-03-20 17:17:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-03-20 23:14:23 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_item": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_item": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2021-03-20 15:53:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2021-03-20 17:42:52 -0400",
+      "minecraft:zombie": "2021-03-20 23:15:44 -0400"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-03-20 15:55:13 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone/stone_window": {
+    "criteria": {
+      "has_planks": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "craft": "2021-03-21 00:49:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2021-03-20 23:13:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2021-03-21 00:02:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2021-03-20 15:55:13 -0400"
+    },
+    "done": false
+  },
+  "adorn:recipes/stone_rod": {
+    "criteria": {
+      "has_key_item_0": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/decorations/stone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-20 22:37:12 -0400"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "masonry_blocks:recipes/masonry": {
+    "criteria": {
+      "has_item_0": "2021-03-20 22:37:12 -0400"
+    },
+    "done": false
+  },
+  "betterendforge:recipes/betterendforge/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/obsidian_button": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "variant16x:recipes/redstone/obsidian_pressure_plate": {
+    "criteria": {
+      "has_obsidian": "2021-03-20 15:54:31 -0400"
+    },
+    "done": true
+  },
+  "farlanders:root": {
+    "criteria": {
+      "attack": "2021-03-20 17:11:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-03-20 23:13:10 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

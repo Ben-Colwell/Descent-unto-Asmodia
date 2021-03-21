@@ -15,7 +15,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "descent:chests/spartan_weapons/stone",
+            "name": "descent:chests/spartan_weapons/iron",
             "weight": 1
           }
         ]

@@ -4,43 +4,18 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_tower_tin",
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/steel",
           "weight": 1
         },
         {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_tower_copper",
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/bronze",
           "weight": 1
         },
         {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_tower_iron",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_tower_bronze",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_basic_tin",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_basic_copper",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_basic_iron",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "spartanshields:shield_basic_bronze",
+          "type": "minecraft:loot_table",
+          "name": "descent:chests/spartan_shields/iron",
           "weight": 1
         }
       ]

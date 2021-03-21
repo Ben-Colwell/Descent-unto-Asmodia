@@ -1,1 +1,58 @@
-{}
+{
+    "helmet": [
+      {
+        "item": "minecraft:iron_helmet",
+        "weight": 1
+      },
+      {
+        "item": "moat:steel_helmet",
+        "weight": 1
+      },
+      {
+        "item": "moat:bronze_helmet",
+        "weight": 1
+      }
+    ],
+    "chestplate": [
+      {
+        "item": "minecraft:iron_chestplate",
+        "weight": 1
+      },
+      {
+        "item": "moat:steel_chestplate",
+        "weight": 1
+      },
+      {
+        "item": "moat:bronze_chestplate",
+        "weight": 1
+      }
+    ],
+    "leggings": [
+      {
+        "item": "minecraft:iron_leggings",
+        "weight": 1
+      },
+      {
+        "item": "moat:steel_leggings",
+        "weight": 1
+      },
+      {
+        "item": "moat:bronze_leggings",
+        "weight": 1
+      }
+    ],
+    "boots": [
+      {
+        "item": "minecraft:iron_boots",
+        "weight": 1
+      },
+      {
+        "item": "moat:steel_boots",
+        "weight": 1
+      },
+      {
+        "item": "moat:bronze_boots",
+        "weight": 1
+      }
+    ]
+  }

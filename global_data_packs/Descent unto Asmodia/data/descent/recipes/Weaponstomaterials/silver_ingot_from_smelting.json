@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "moat:silver_pickaxe"
+    },
+    {
+      "item": "moat:silver_shovel"
+    },
+    {
+      "item": "moat:silver_axe"
+    },
+    {
+      "item": "moat:silver_hoe"
+    },
+    {
+      "item": "moat:silver_sword"
+    },
+    {
+      "item": "moat:silver_helmet"
+    },
+    {
+      "item": "moat:silver_chestplate"
+    },
+    {
+      "item": "moat:silver_leggings"
+    },
+    {
+      "item": "moat:silver_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_silver"
+    },
+    {
+      "item": "spartanweaponry:glaive_silver"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_silver"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_silver"
+    },
+    {
+      "item": "spartanweaponry:boomerang_silver"
+    },
+    {
+      "item": "spartanweaponry:javelin_silver"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_silver"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_silver"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_silver"
+    },
+    {
+      "item": "spartanweaponry:longbow_silver"
+    },
+    {
+      "item": "spartanweaponry:lance_silver"
+    },
+    {
+      "item": "spartanweaponry:pike_silver"
+    },
+    {
+      "item": "spartanweaponry:halberd_silver"
+    },
+    {
+      "item": "spartanweaponry:spear_silver"
+    },
+    {
+      "item": "spartanweaponry:warhammer_silver"
+    },
+    {
+      "item": "spartanweaponry:hammer_silver"
+    },
+    {
+      "item": "spartanweaponry:greatsword_silver"
+    },
+    {
+      "item": "spartanweaponry:rapier_silver"
+    },
+    {
+      "item": "spartanweaponry:saber_silver"
+    },
+    {
+      "item": "spartanweaponry:katana_silver"
+    },
+    {
+      "item": "spartanweaponry:longsword_silver"
+    },
+    {
+      "item": "spartanweaponry:dagger_silver"
+    },
+    {
+      "item": "spartanshields:shield_basic_silver"
+    },
+    {
+      "item": "spartanshields:shield_tower_silver"
+    }
+  ],
+  "result": "moat:silver_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

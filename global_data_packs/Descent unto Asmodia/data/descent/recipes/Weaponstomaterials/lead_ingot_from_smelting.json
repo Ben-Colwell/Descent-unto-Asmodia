@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "moat:lead_pickaxe"
+    },
+    {
+      "item": "moat:lead_shovel"
+    },
+    {
+      "item": "moat:lead_axe"
+    },
+    {
+      "item": "moat:lead_hoe"
+    },
+    {
+      "item": "moat:lead_sword"
+    },
+    {
+      "item": "moat:lead_helmet"
+    },
+    {
+      "item": "moat:lead_chestplate"
+    },
+    {
+      "item": "moat:lead_leggings"
+    },
+    {
+      "item": "moat:lead_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_lead"
+    },
+    {
+      "item": "spartanweaponry:glaive_lead"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_lead"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_lead"
+    },
+    {
+      "item": "spartanweaponry:boomerang_lead"
+    },
+    {
+      "item": "spartanweaponry:javelin_lead"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_lead"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_lead"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_lead"
+    },
+    {
+      "item": "spartanweaponry:longbow_lead"
+    },
+    {
+      "item": "spartanweaponry:lance_lead"
+    },
+    {
+      "item": "spartanweaponry:pike_lead"
+    },
+    {
+      "item": "spartanweaponry:halberd_lead"
+    },
+    {
+      "item": "spartanweaponry:spear_lead"
+    },
+    {
+      "item": "spartanweaponry:warhammer_lead"
+    },
+    {
+      "item": "spartanweaponry:hammer_lead"
+    },
+    {
+      "item": "spartanweaponry:greatsword_lead"
+    },
+    {
+      "item": "spartanweaponry:rapier_lead"
+    },
+    {
+      "item": "spartanweaponry:saber_lead"
+    },
+    {
+      "item": "spartanweaponry:katana_lead"
+    },
+    {
+      "item": "spartanweaponry:longsword_lead"
+    },
+    {
+      "item": "spartanweaponry:dagger_lead"
+    },
+    {
+      "item": "spartanshields:shield_basic_lead"
+    },
+    {
+      "item": "spartanshields:shield_tower_lead"
+    }
+  ],
+  "result": "moat:lead_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

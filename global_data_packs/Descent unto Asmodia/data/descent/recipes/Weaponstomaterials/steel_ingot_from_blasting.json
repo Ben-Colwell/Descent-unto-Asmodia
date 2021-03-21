@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "moat:steel_pickaxe"
+    },
+    {
+      "item": "moat:steel_shovel"
+    },
+    {
+      "item": "moat:steel_axe"
+    },
+    {
+      "item": "moat:steel_hoe"
+    },
+    {
+      "item": "moat:steel_sword"
+    },
+    {
+      "item": "moat:steel_helmet"
+    },
+    {
+      "item": "moat:steel_chestplate"
+    },
+    {
+      "item": "moat:steel_leggings"
+    },
+    {
+      "item": "moat:steel_boots"
+    },
+    {
+      "item": "spartanweaponry:quarterstaff_steel"
+    },
+    {
+      "item": "spartanweaponry:glaive_steel"
+    },
+    {
+      "item": "spartanweaponry:flanged_mace_steel"
+    },
+    {
+      "item": "spartanweaponry:battleaxe_steel"
+    },
+    {
+      "item": "spartanweaponry:boomerang_steel"
+    },
+    {
+      "item": "spartanweaponry:javelin_steel"
+    },
+    {
+      "item": "spartanweaponry:tomahawk_steel"
+    },
+    {
+      "item": "spartanweaponry:throwing_knife_steel"
+    },
+    {
+      "item": "spartanweaponry:heavy_crossbow_steel"
+    },
+    {
+      "item": "spartanweaponry:longbow_steel"
+    },
+    {
+      "item": "spartanweaponry:lance_steel"
+    },
+    {
+      "item": "spartanweaponry:pike_steel"
+    },
+    {
+      "item": "spartanweaponry:halberd_steel"
+    },
+    {
+      "item": "spartanweaponry:spear_steel"
+    },
+    {
+      "item": "spartanweaponry:warhammer_steel"
+    },
+    {
+      "item": "spartanweaponry:hammer_steel"
+    },
+    {
+      "item": "spartanweaponry:greatsword_steel"
+    },
+    {
+      "item": "spartanweaponry:rapier_steel"
+    },
+    {
+      "item": "spartanweaponry:saber_steel"
+    },
+    {
+      "item": "spartanweaponry:katana_steel"
+    },
+    {
+      "item": "spartanweaponry:longsword_steel"
+    },
+    {
+      "item": "spartanweaponry:dagger_steel"
+    },
+    {
+      "item": "spartanshields:shield_basic_steel"
+    },
+    {
+      "item": "spartanshields:shield_tower_steel"
+    }
+  ],
+  "result": "moat:steel_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}
