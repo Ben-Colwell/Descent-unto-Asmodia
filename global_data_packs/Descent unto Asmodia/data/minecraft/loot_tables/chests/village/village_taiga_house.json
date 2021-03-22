@@ -12,7 +12,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -21,13 +21,13 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins1"
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },

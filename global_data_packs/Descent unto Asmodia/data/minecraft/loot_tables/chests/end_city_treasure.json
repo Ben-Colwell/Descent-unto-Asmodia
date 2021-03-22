@@ -6,20 +6,26 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_weapons/stages/stage5"
-        }
-      ],
-      "functions": [
-        {
-          "function": "minecraft:enchant_with_levels",
-          "levels": 25,
-          "treasure": true
+          "name": "descent:chests/spartan_weapons/stages/stage5",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 25,
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.90
+                }
+              ]
+            }
+          ]
         }
       ],
       "conditions": [
         {
-          "condition": "minecraft:random_chance",
-          "chance": 0.75
+        "condition": "minecraft:random_chance",
+        "chance": 0.90
         }
       ]
     },
@@ -28,20 +34,26 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_shields/shieldstage5"
-        }
-      ],
-      "functions": [
-        {
-          "function": "minecraft:enchant_with_levels",
-          "levels": 25,
-          "treasure": true
+          "name": "descent:chests/spartan_shields/shieldstage5",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 25,
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.90
+                }
+              ]
+            }
+          ]
         }
       ],
       "conditions": [
         {
-          "condition": "minecraft:random_chance",
-          "chance": 0.75
+        "condition": "minecraft:random_chance",
+        "chance": 0.90
         }
       ]
     },
@@ -56,22 +68,22 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.90
         }
       ]
     },
     {
-      "rolls": 2,
+      "rolls": 1,
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins5"
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.90
         }
       ]
     },

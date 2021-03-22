@@ -6,15 +6,26 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_weapons/stages/stage1"
-        },
+          "name": "descent:chests/spartan_weapons/stages/stage1",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 5,
+              "treasure": false,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
         {
-          "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_weapons/stages/stage2"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_weapons/stages/stage3"
+        "condition": "minecraft:random_chance",
+        "chance": 0.5
         }
       ]
     },
@@ -23,15 +34,26 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_shields/shieldstage1"
-        },
+          "name": "descent:chests/spartan_shields/shieldstage1",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 5,
+              "treasure": false,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
         {
-          "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_shields/shieldstage2"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "descent:chests/spartan_shields/shieldstage3"
+        "condition": "minecraft:random_chance",
+        "chance": 0.5
         }
       ]
     },
@@ -46,7 +68,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -55,13 +77,13 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins1"
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.50
         }
       ]
     },
@@ -72,6 +94,48 @@
         "type": "minecraft:uniform"
       },
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "moat:silver_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "moat:bronze_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "moat:steel_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "weight": 4
+        },
         {
           "type": "minecraft:item",
           "functions": [

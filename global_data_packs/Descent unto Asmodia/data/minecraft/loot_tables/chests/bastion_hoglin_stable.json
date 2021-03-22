@@ -17,13 +17,19 @@
         {
           "function": "minecraft:enchant_with_levels",
           "levels": 20,
-          "treasure": false
+          "treasure": false,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.80
+            }
+          ]
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.80
         }
       ]
     },
@@ -43,13 +49,19 @@
         {
           "function": "minecraft:enchant_with_levels",
           "levels": 20,
-          "treasure": false
+          "treasure": false,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.80
+            }
+          ]
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.80
         }
       ]
     },
@@ -64,7 +76,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.80
         }
       ]
     },
@@ -73,13 +85,13 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "descent:chests/coins"
+          "name": "descent:chests/coins4"
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.75
+          "chance": 0.80
         }
       ]
     },
