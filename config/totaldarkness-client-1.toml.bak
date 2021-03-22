@@ -1,0 +1,14 @@
+
+[general]
+	only_affect_block_light = true
+	ignore_moon_phase = false
+	dark_overworld = false
+	dark_default = true
+	dark_nether = true
+	#Range: 0.0 ~ 1.0
+	dark_nether_fog = 0.5
+	dark_end = true
+	#Range: 0.0 ~ 1.0
+	dark_end_fog = 0.2
+	dark_skyless = true
+

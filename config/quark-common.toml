@@ -109,13 +109,13 @@
 	"Nether Brick Fence Gate" = true
 	"Paper Decor" = true
 	"Quilted Wool" = true
-	Rope = true
+	Rope = false
 	"Shallow Dirt" = true
 	Shingles = true
 	"Soul Sandstone" = true
 	"Stained Planks" = true
 	Stools = true
-	"Sturdy Stone" = true
+	"Sturdy Stone" = false
 	"Tallow And Candles" = true
 	Thatch = true
 	"Tie Leads To Fences" = true
@@ -124,7 +124,7 @@
 	"Variant Chests" = true
 	"Variant Ladders" = true
 	"Vertical Planks" = true
-	"Vertical Slabs" = false
+	"Vertical Slabs" = true
 	"Wooden Posts" = true
 
 	[building.compressed_blocks]
@@ -209,7 +209,7 @@
 [management]
 	"Chests In Boats" = true
 	"Easy Transfering" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Right Click Armor" = true
@@ -229,10 +229,10 @@
 		"Render Items In Chat" = true
 
 [tools]
-	"Ancient Tomes" = false
+	"Ancient Tomes" = true
 	"Bottled Cloud" = true
 	Camera = true
-	"Color Runes" = true
+	"Color Runes" = false
 	"Pathfinder Maps" = true
 	Pickarang = false
 	"Seed Pouch" = true
@@ -255,7 +255,7 @@
 		"Nether Fortress Weight" = 0
 		#Set to 0 to not generate in Underwater Ruins
 		"Underwater Ruin Weight" = 0
-		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
+		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing", "spartanweaponry:throwing_luck", "spartanweaponry:throwing_damage", "spartanweaponry:throwing_range", "bigbrain:bang", "alexsmobs:straddle_jump", "fins:fluked_edge", "spartanshields:payback", "spartanshields:firebrand", "spartanshields:spikes",]
 		#Set to 0 to not generate in Woodland Mansions
 		"Woodland Mansion Weight" = 15
 
@@ -335,7 +335,7 @@
 	"Improved Sleeping" = true
 	"Infinity Bucket" = true
 	"Lava Bucket As Trash" = true
-	"Lock Rotation" = true
+	"Lock Rotation" = false
 	"Note Block Mob Sounds" = true
 	"Pat The Dogs" = true
 	"Poison Potato Usage" = true
@@ -360,8 +360,8 @@
 		"Max Speed" = 1.0
 
 	[tweaks.compasses_work_everywhere]
-		"Enable Clock Nerf" = true
-		"Enable Compass Nerf" = true
+		"Enable Clock Nerf" = false
+		"Enable Compass Nerf" = false
 		"Enable End" = true
 		"Enable Nether" = true
 
@@ -465,12 +465,12 @@
 	"Cave Crystal Underground Biome" = true
 	"Cave Roots" = true
 	"Chorus Vegetation" = true
-	Crevices = true
+	Crevices = false
 	"Elder Prismarine Underground Biome" = true
 	"Fairy Rings" = true
 	"Glowshroom Underground Biome" = true
 	"Lush Underground Biome" = true
-	"Mega Caves" = true
+	"Mega Caves" = false
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = true
@@ -487,9 +487,9 @@
 	[world.big_dungeon]
 		"Chest Chance" = 0.5
 		"Loot Table" = "minecraft:chests/simple_dungeon"
-		"Max Rooms" = 15
+		"Max Rooms" = 20
 		#The chance that a big dungeon spawn candidate will be allowed to spawn. 0.2 is 20%, which is the same as the Pillager Outpost.
-		"Spawn Chance" = 0.4
+		"Spawn Chance" = 0.6
 
 		[world.big_dungeon.biome_types]
 			#Allowed values: [[none, taiga, extreme_hills, jungle, mesa, plains, savanna,
@@ -935,7 +935,7 @@
 		"Endermite Spawn Chance" = 0.01
 		"Highlands Chance" = 1.0
 		"Midlands Chance" = 0.2
-		"Other End Biomes Chance" = 0.0
+		"Other End Biomes Chance" = 0.1
 		"Passive Teleport Chance" = 0.2
 		Radius = 7
 		Rarity = 150

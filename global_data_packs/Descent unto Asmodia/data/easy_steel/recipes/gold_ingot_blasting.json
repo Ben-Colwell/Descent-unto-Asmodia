@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "easy_steel:gold_powder"
-  },
-  "result": "minecraft:gold_ingot",
-  "experience": 0.15,
-  "cookingtime": 100
-}

@@ -40,7 +40,13 @@
             {
               "function": "enchant_with_levels",
               "levels": 10,
-              "treasure": false
+              "treasure": false,
+              "conditions": [
+                {
+                  "condition": "random_chance",
+                  "chance": 0.60
+                }
+              ]
             }
           ]
         }
@@ -62,7 +68,13 @@
             {
               "function": "enchant_with_levels",
               "levels": 10,
-              "treasure": false
+              "treasure": false,
+              "conditions": [
+                {
+                  "condition": "random_chance",
+                  "chance": 0.60
+                }
+              ]
             }
           ]
         }
