@@ -306,10 +306,10 @@
 [tin]
 	#Base Damage for tin weapons
 	#Range: 0.1 ~ 100.0
-	base_damage = 1.75
+	base_damage = 1.5
 	#Durability for tin weapons
 	#Range: 1 ~ 100000
-	durability = 180
+	durability = 200
 	#Set to true to disable tin weapons
 	disable = false
 
@@ -319,7 +319,7 @@
 	base_damage = 2.0
 	#Durability for bronze weapons
 	#Range: 1 ~ 100000
-	durability = 320
+	durability = 400
 	#Set to true to disable bronze weapons
 	disable = false
 
@@ -329,17 +329,17 @@
 	base_damage = 2.5
 	#Durability for steel weapons
 	#Range: 1 ~ 100000
-	durability = 480
+	durability = 500
 	#Set to true to disable steel weapons
 	disable = false
 
 [silver]
 	#Base Damage for silver weapons
 	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
+	base_damage = 2.0
 	#Durability for silver weapons
 	#Range: 1 ~ 100000
-	durability = 48
+	durability = 300
 	#Set to true to disable silver weapons
 	disable = false
 
@@ -351,7 +351,7 @@
 	#Range: 1 ~ 100000
 	durability = 440
 	#Set to true to disable invar weapons
-	disable = false
+	disable = true
 
 [platinum]
 	#Base Damage for platinum weapons
@@ -371,7 +371,7 @@
 	#Range: 1 ~ 100000
 	durability = 180
 	#Set to true to disable electrum weapons
-	disable = false
+	disable = true
 
 [nickel]
 	#Base Damage for nickel weapons
@@ -381,15 +381,15 @@
 	#Range: 1 ~ 100000
 	durability = 200
 	#Set to true to disable nickel weapons
-	disable = false
+	disable = true
 
 [lead]
 	#Base Damage for lead weapons
 	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
+	base_damage = 3.0
 	#Durability for lead weapons
 	#Range: 1 ~ 100000
-	durability = 240
+	durability = 800
 	#Set to true to disable lead weapons
 	disable = false
 
@@ -463,7 +463,7 @@
 	damageBonusUndeadMultiplier = 1.5
 	#Changes the percentage of damage absorbed by the "Damage Absorption" Weapon Trait
 	#Range: 0.0 ~ 1.0
-	damageAbsorptionFactor = 0.15
+	damageAbsorptionFactor = 0.20
 	#Changes the reach of any weapons with the "Reach I" Weapon Trait
 	#Range: 5.0 ~ 15.0
 	reach1Value = 6.0
@@ -475,7 +475,7 @@
 	sweep2Percentage = 50.0
 	#Changes the percentage of damage inflicted to enemies when sweep attacked on weapons with the "Sweep III" Weapon Trait
 	#Range: 0.0 ~ 100.0
-	sweep3Percentage = 100.0
+	sweep3Percentage = 75.0
 	#Changes the percentage of damage that ignores armor on weapons with the "Armor Piercing" Weapon Trait
 	#Range: 0.0 ~ 100.0
 	armorPiercePercentage = 50.0
@@ -492,7 +492,7 @@
 	force_compatibility_crosshairs = false
 	#Sets where the Quiver HUD Element should be aligned
 	#Allowed Values: TOP_LEFT, TOP_CENTER, TOP_RIGHT, CENTER_LEFT, CENTER, CENTER_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
-	quiver_hud_alignment = "BOTTOM_CENTER"
+	quiver_hud_alignment = "BOTTOM_LEFT"
 	#Sets where on the X-axis the Quiver HUD element should be off-set from it's alignment point
 	#Range: -400 ~ 400
 	quiver_hud_offset_x = -139

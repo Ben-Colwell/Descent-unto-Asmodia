@@ -5,15 +5,15 @@
 	#Heart particles appear around animals as long as they are in love instead of only once when they enter love mode.
 	"Breeding Hearts" = true
 	#Endermen aren't lightning fast and can't sense you from the other end of the world anymore.
-	"Chilled Endermen" = true
+	"Chilled Endermen" = false
 	#Change rabbit ai for them to no longer be scared as easily. Also add some basic animal behaviour (such as kits following their parents) which for some reason is missing by default.
 	"Brave Rabbits" = true
 	#Remove the very annoying and buggy strafing behavior from skeletons when attacking.
-	"Skeleton Attack" = true
+	"Skeleton Attack" = false
 	#Instead of standing still, creepers will stay close to their target and dodge attacks while exploding.
-	"Stalking Creepers" = false
+	"Stalking Creepers" = true
 	#Blazes don't call their buddies for help when attacking anymore and have a decreased follow range.
-	"Helpless Blazes" = true
+	"Helpless Blazes" = false
 	#Sheep flee from wolves instead of letting themselves be eaten, because why would they do that.
 	"Smart Sheep" = true
 
