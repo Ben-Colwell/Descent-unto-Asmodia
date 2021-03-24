@@ -96,5 +96,5 @@
 [moddedPowered]
 	#Damage to FE Multiplier
 	#Range: 0 ~ 1000000
-	damageToFEMultpier = 100000000
+	damageToFEMultpier = 1000000
 

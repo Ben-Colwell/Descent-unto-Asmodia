@@ -1,0 +1,124 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_4"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_5"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_6"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_7"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_8"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_21"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_22"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_23"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_24"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_25"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_26"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_27"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_28"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_29"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_30"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_31"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_32"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_49"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_50"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_51"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_52"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_53"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_54"
+          }
+        ]
+      }
+    ]
+}

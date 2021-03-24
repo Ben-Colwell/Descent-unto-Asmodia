@@ -1,0 +1,1 @@
+gamestage add @a 1_spawn

@@ -1,0 +1,69 @@
+{
+    "pools": [
+        {
+          "rolls": 1,
+          "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_9"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_10"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_11"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_12"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_13"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_14"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_15"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_16"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_17"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_18"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_19"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "behgameon:accessory_20"
+          }
+        ]
+      }
+    ]
+}

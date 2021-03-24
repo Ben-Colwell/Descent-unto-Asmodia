@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {}
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "descent:2_enchantments"
+  }
+}
