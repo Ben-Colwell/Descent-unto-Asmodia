@@ -41,3 +41,25 @@ CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=5.7.1, 
 [12:23:18] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\ben52\Twitch\Minecraft\Instances\Descent%20unto%20Asmodia\mods\journeymap-1.16.5-5.7.1.jar\assets\journeymap\theme\flat
 [12:23:18] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
 [12:23:19] [JM-VersionCheck-1/WARN] [VersionCheck$1] No versions found online for 1.16.5
+[12:40:40] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[12:41:01] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.global.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.global.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.default.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.default.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] overworld (Initialized) Setting config file to version "5.7.1": journeymap.server.overworld.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] overworld (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.overworld.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_nether (Initialized) Setting config file to version "5.7.1": journeymap.server.the_nether.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_nether (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.the_nether.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_end (Initialized) Setting config file to version "5.7.1": journeymap.server.the_end.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_end (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.the_end.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_bumblezone (Initialized) Setting config file to version "5.7.1": journeymap.server.the_bumblezone.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] the_bumblezone (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.the_bumblezone.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] undergarden (Initialized) Setting config file to version "5.7.1": journeymap.server.undergarden.config
+[12:41:01] [Server thread/INFO] [PropertiesBase] undergarden (Valid) Creating config file: C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\server\5.7\journeymap.server.undergarden.config
+[12:41:32] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[12:41:32] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[12:41:32] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[12:41:32] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\waypoints
+[12:41:32] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\overworld. Memory: 5510MB total, 1807MB free 
+[12:41:33] [Render thread/INFO] [ChatLog] 
+[12:44:44] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\mp\offline\minecraft:overworld

@@ -7,7 +7,7 @@
 	enableEndPhantoms = true
 	#Spawn weight of Phantoms spawning in the End [0-100, default: 5]
 	#Range: 0 ~ 100
-	endPhantomSpawnWeight = 3
+	endPhantomSpawnWeight = 5
 	#Minimum group size of Phantoms spawning in the End [0-100, default: 4]
 	#Range: 0 ~ 100
 	endPhantomMinGroupSize = 4

@@ -7,9 +7,9 @@ max_xp = 4185
 #Range: 0.0 ~ 1.0
 retrieval_percentage = 1.0
 #Setting this to true will remove only as much XP from the book at a time as is needed for the player to reach their next level.
-retrieve_until_next_level = true
+retrieve_until_next_level = false
 #Setting this to true will store only as much XP from the player's XP bar until reaching the previous level, meaning only one level at maximum will be added to the book's storage at a time.
 store_until_previous_level = false
 #Setting this to true will remove XP from the book in XP orb form. This is useful if you want to use XP from the book for tools enchanted with Mending.
-retrieve_xp_orbs = false
+retrieve_xp_orbs = true
 

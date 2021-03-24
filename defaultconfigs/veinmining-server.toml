@@ -13,7 +13,7 @@
 	#Whether or not this enchantment can generate in loot
 	isLootable = true
 	#Whether or not this enchantment can be applied at the enchanting table
-	canApplyAtEnchantingTable = true
+	canApplyAtEnchantingTable = false
 	#Whether or not this enchantment can be applied on books
 	canApplyOnBooks = true
 	#The minimum enchantability requirement for the first enchantment level
@@ -39,7 +39,7 @@
 	maxDistanceBase = 0
 	#The maximum number of blocks to mine per level of the enchantment
 	#Range: 1 ~ 1000
-	maxBlocksPerLevel = 50
+	maxBlocksPerLevel = 20
 	#The maximum distance from the source block per level of the enchantment
 	#Range: 1 ~ 100
 	maxDistancePerLevel = 15
@@ -60,7 +60,7 @@
 	addPlayerExhaustion = true
 	#The multiplier to player exhaustion from mining additional blocks
 	#Range: 0.0 ~ 1000.0
-	playerExhaustionMultiplier = 1.5
+	playerExhaustionMultiplier = 2.0
 	#List of whitelisted/blacklisted blocks or block tags
 	blocks = []
 	#Whether the blocks configuration is a whitelist or a blacklist
