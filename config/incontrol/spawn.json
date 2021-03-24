@@ -1,1 +1,21 @@
-[]
+[
+    {
+      "mob": ["minecraft:zombie"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "speedmultiply": 3
+    },
+    {
+      "mob": ["minecraft:zombie"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "potion": "minecraft:invisibility,10000,1"
+    },
+    {
+      "mob": ["minecraft:zombie"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "speedmultiply": 3
+    }
+  ]
+  
