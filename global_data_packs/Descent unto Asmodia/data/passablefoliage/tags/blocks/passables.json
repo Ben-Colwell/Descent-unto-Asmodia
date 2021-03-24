@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#leaves",
+    "omni:golden_oak_leaves",
+    "omni:palo_verde_leaves",
+    "desolation:ashbramble",
+    "desolation:charred_branches"
+  ]
+}
