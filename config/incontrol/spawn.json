@@ -3,19 +3,31 @@
       "mob": ["minecraft:zombie"],
       "gamestage": "1_spawn",
       "result": "allow",
-      "speedmultiply": 3
+      "healthadd": 2,
+      "damageadd": 1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.follow_range","Base" :44}
+        ]
+      }
     },
     {
       "mob": ["minecraft:zombie"],
       "gamestage": "2_enchantments",
       "result": "allow",
-      "potion": "minecraft:invisibility,10000,1"
+      "healthadd": 3,
+      "damageadd": 2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.follow_range","Base" :44},
+        {"Name":"generic.armor","Base" :3}
+        ]
+      }
     },
     {
       "mob": ["minecraft:zombie"],
       "gamestage": "3_nether",
-      "result": "allow",
-      "speedmultiply": 3
+      "result": "allow"
     }
   ]
   
