@@ -1,210 +1,623 @@
-[19:39:34.776][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[19:39:35.100][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
-'crafttweaker' at version '7.1.0.161'
+[19:59:38.948][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[19:59:40.162][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'crafttweaker' at version '7.1.0.175'
 'gamestages' at version '7.1.2'
 'jeitweaker' at version '1.0.1.14'
-[19:39:35.403][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[19:39:58.608][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[19:39:59.076][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[19:42:52.533][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:42:52.567][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
-[19:42:52.567][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
-[19:42:52.568][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
-[19:42:52.568][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
-[19:42:52.569][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
-[19:42:52.571][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
-[19:42:52.571][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
-[19:42:52.571][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
-[19:42:52.571][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
-[19:42:52.572][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
-[19:42:52.572][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
-[19:42:52.572][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
-[19:42:52.573][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
-[19:42:52.573][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
-[19:42:52.573][DONE][CLIENT][INFO] Loading file: hello.zs
-[19:42:52.615][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing>
-[19:42:52.615][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
-[19:42:52.615][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
-[19:42:52.619][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "additionalenderitems:ender_torch"
-[19:42:52.619][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "bhc:god_apple"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "charm:extra_recipes/trident"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/copper_pile_to_iron_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_pile_to_gold_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_ingot_to_gold_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_pile_to_platinum_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_ingot_to_iron_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/platinum_pile_to_diamond_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/copper_pile_to_iron_coin"
-[19:42:52.620][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_pile_to_gold_coin"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_ingot_to_gold_coin"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_pile_to_platinum_coin"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_ingot_to_iron_coin"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/platinum_pile_to_diamond_coin"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_diamond_to_platinum"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_gold_to_iron"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_iron_to_copper"
-[19:42:52.621][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_platinum_to_gold"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:diamond_blasting"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:emerald_from_powder_blasting"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:diamond_smelting"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:emerald_from_powder_smelting"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_excavator"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_excavator"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_excavator"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_excavator"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_excavator"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_hammer"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_hammer"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_hammer"
-[19:42:52.622][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_hammer"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_hammer"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_diamond"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_emerald"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_paxel"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_paxel"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_paxel"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_paxel"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_paxel"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_rod"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_rod"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_rod"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_from_ingots"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_from_ingots"
-[19:42:52.623][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_hardened_steel_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_steel_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_titanium_alloy_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots2"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:saddle"
-[19:42:52.624][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:name_tag"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_helmet"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_chestplate"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_leggings"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_boots"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_hoe"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_axe"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_pickaxe"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_sword"
-[19:42:52.624][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_shovel"
-[19:42:52.625][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "minecraft:shield"
-[19:42:52.625][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "paraglider:convert_stamina_vessel"
-[19:42:52.625][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "upgrade_aquatic:trident"
-[19:42:52.625][DONE][CLIENT][INFO] Hello World
-[19:42:52.625][DONE][CLIENT][INFO] Finished loading Scripts!
-[19:42:52.629][DONE][CLIENT][INFO] This reload was made possible by Robijnvogel and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[19:43:27.084][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[19:43:27.107][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
-[19:43:27.108][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
-[19:43:27.109][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
-[19:43:27.109][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
-[19:43:27.110][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
-[19:43:27.110][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
-[19:43:27.110][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
-[19:43:27.111][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
-[19:43:27.111][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
-[19:43:27.111][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
-[19:43:27.112][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
-[19:43:27.112][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
-[19:43:27.112][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
-[19:43:27.112][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
-[19:43:27.112][DONE][CLIENT][INFO] Loading file: hello.zs
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield1>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield2>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield3>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield4>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield5>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield6>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield7>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield8>
-[19:43:27.125][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield9>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield10>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield11>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield12>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield13>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield14>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield15>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_helmet>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_chestplate>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_leggings>
-[19:43:27.126][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_boots>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_hoe>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_pickaxe>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_shovel>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_sword>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_axe>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:empty_frame>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_creator>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_horse_armor>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:spirit_orb>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:heart_container>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:horned_statue>
-[19:43:27.127][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_invar>
-[19:43:27.128][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_invar>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_invar>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_invar>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_invar>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_electrum>
-[19:43:27.129][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_electrum>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_nickel>
-[19:43:27.130][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_nickel>
-[19:43:27.131][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_nickel>
-[19:43:27.133][DONE][CLIENT][INFO] Hello World
-[19:43:27.133][DONE][CLIENT][INFO] Finished loading Scripts!
+[19:59:40.767][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[20:00:01.697][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[20:00:02.536][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[21:38:43.136][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[21:38:43.183][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
+[21:38:43.184][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
+[21:38:43.184][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
+[21:38:43.184][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
+[21:38:43.185][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
+[21:38:43.186][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
+[21:38:43.186][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
+[21:38:43.186][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
+[21:38:43.186][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
+[21:38:43.186][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
+[21:38:43.187][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
+[21:38:43.187][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
+[21:38:43.187][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
+[21:38:43.187][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
+[21:38:43.187][DONE][CLIENT][INFO] Loading file: hello.zs
+[21:38:43.221][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing>
+[21:38:43.221][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
+[21:38:43.221][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
+[21:38:43.223][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "additionalenderitems:ender_torch"
+[21:38:43.223][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "bhc:god_apple"
+[21:38:43.223][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "charm:extra_recipes/trident"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/copper_pile_to_iron_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_pile_to_gold_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_ingot_to_gold_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_pile_to_platinum_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_ingot_to_iron_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/platinum_pile_to_diamond_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/copper_pile_to_iron_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_pile_to_gold_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_ingot_to_gold_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_pile_to_platinum_coin"
+[21:38:43.224][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_ingot_to_iron_coin"
+[21:38:43.225][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/platinum_pile_to_diamond_coin"
+[21:38:43.225][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_diamond_to_platinum"
+[21:38:43.225][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_gold_to_iron"
+[21:38:43.225][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_iron_to_copper"
+[21:38:43.225][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_platinum_to_gold"
+[21:38:43.225][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:diamond_blasting"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:emerald_from_powder_blasting"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:diamond_smelting"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:emerald_from_powder_smelting"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_excavator"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_excavator"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_excavator"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_excavator"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_excavator"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_hammer"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_hammer"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_hammer"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_hammer"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_hammer"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_diamond"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_emerald"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_paxel"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_paxel"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_paxel"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_paxel"
+[21:38:43.226][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_paxel"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_rod"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_rod"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_rod"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_hardened_steel_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_steel_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_titanium_alloy_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots2"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:saddle"
+[21:38:43.227][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:name_tag"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_helmet"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_chestplate"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_leggings"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_boots"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_hoe"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_axe"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_pickaxe"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_sword"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_shovel"
+[21:38:43.227][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "minecraft:shield"
+[21:38:43.228][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "paraglider:convert_stamina_vessel"
+[21:38:43.228][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "upgrade_aquatic:trident"
+[21:38:43.228][DONE][CLIENT][INFO] Hello World
+[21:38:43.228][DONE][CLIENT][INFO] Finished loading Scripts!
+[21:38:43.230][DONE][CLIENT][INFO] This reload was made possible by otakup0pe and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[21:41:56.388][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[21:41:56.389][DONE][CLIENT][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing>
+[21:41:56.389][DONE][CLIENT][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
+[21:41:56.389][DONE][CLIENT][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
+[21:41:56.428][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
+[21:41:56.428][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
+[21:41:56.429][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
+[21:41:56.429][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
+[21:41:56.430][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
+[21:41:56.431][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
+[21:41:56.431][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
+[21:41:56.431][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
+[21:41:56.431][DONE][CLIENT][INFO] Loading file: hello.zs
+[21:41:56.447][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing>
+[21:41:56.447][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
+[21:41:56.447][DONE][CLIENT][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
+[21:41:56.447][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "additionalenderitems:ender_torch"
+[21:41:56.447][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "bhc:god_apple"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "charm:extra_recipes/trident"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/copper_pile_to_iron_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_pile_to_gold_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_ingot_to_gold_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_pile_to_platinum_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_ingot_to_iron_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/platinum_pile_to_diamond_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/copper_pile_to_iron_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_pile_to_gold_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_ingot_to_gold_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_pile_to_platinum_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_ingot_to_iron_coin"
+[21:41:56.448][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/platinum_pile_to_diamond_coin"
+[21:41:56.449][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_diamond_to_platinum"
+[21:41:56.449][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_gold_to_iron"
+[21:41:56.449][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_iron_to_copper"
+[21:41:56.449][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_platinum_to_gold"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:diamond_blasting"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:emerald_from_powder_blasting"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:diamond_smelting"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:emerald_from_powder_smelting"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_excavator"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_excavator"
+[21:41:56.449][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_excavator"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_excavator"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_excavator"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_hammer"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_hammer"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_hammer"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_hammer"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_hammer"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_diamond"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_emerald"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_paxel"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_paxel"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_paxel"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_paxel"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_paxel"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_rod"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_rod"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_rod"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_from_ingots"
+[21:41:56.450][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_hardened_steel_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_steel_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_titanium_alloy_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots2"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:saddle"
+[21:41:56.451][DONE][CLIENT][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:name_tag"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_helmet"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_chestplate"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_leggings"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_boots"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_hoe"
+[21:41:56.451][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_axe"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_pickaxe"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_sword"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_shovel"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "minecraft:shield"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "paraglider:convert_stamina_vessel"
+[21:41:56.452][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "upgrade_aquatic:trident"
+[21:41:56.452][DONE][CLIENT][INFO] Hello World
+[21:41:56.452][DONE][CLIENT][INFO] Finished loading Scripts!
+[21:41:56.455][DONE][CLIENT][INFO] This reload was made possible by AdaraChristine and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[21:42:37.391][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[21:42:37.418][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
+[21:42:37.419][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
+[21:42:37.419][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
+[21:42:37.419][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
+[21:42:37.420][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
+[21:42:37.421][DONE][CLIENT][INFO] Loading file: hello.zs
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield1>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield2>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield3>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield4>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield5>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield6>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield7>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield8>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield9>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield10>
+[21:42:37.431][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield11>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield12>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield13>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield14>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield15>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_helmet>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_chestplate>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_leggings>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_boots>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_hoe>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_pickaxe>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_shovel>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_sword>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_axe>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:empty_frame>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_creator>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_horse_armor>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:spirit_orb>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:heart_container>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:horned_statue>
+[21:42:37.432][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_invar>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_electrum>
+[21:42:37.433][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_electrum>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_nickel>
+[21:42:37.434][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_nickel>
+[21:42:37.435][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_nickel>
+[21:42:37.436][DONE][CLIENT][INFO] Hello World
+[21:42:37.436][DONE][CLIENT][INFO] Finished loading Scripts!
+[22:10:01.732][DONE][SERVER][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[22:10:01.732][DONE][SERVER][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing>
+[22:10:01.732][DONE][SERVER][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
+[22:10:01.732][DONE][SERVER][INFO] Undoing removal of Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
+[22:10:01.768][DONE][SERVER][INFO] Loading file: JEI\behgameon.zs
+[22:10:01.768][DONE][SERVER][INFO] Loading file: JEI\endremastered.zs
+[22:10:01.768][DONE][SERVER][INFO] Loading file: JEI\paraglider.zs
+[22:10:01.768][DONE][SERVER][INFO] Loading file: JEI\spartanshields.zs
+[22:10:01.768][DONE][SERVER][INFO] Loading file: JEI\spartanweapons.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Potions\upgradeaquatic.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Recipes\additionalenderitems.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Recipes\baubleyheartcanisters.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Recipes\charm.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Recipes\coins.zs
+[22:10:01.769][DONE][SERVER][INFO] Loading file: Recipes\easysteel.zs
+[22:10:01.770][DONE][SERVER][INFO] Loading file: Recipes\endremastered.zs
+[22:10:01.770][DONE][SERVER][INFO] Loading file: Recipes\minecraft.zs
+[22:10:01.770][DONE][SERVER][INFO] Loading file: Recipes\paraglider.zs
+[22:10:01.770][DONE][SERVER][INFO] Loading file: Recipes\upgradeaquatic.zs
+[22:10:01.770][DONE][SERVER][INFO] Loading file: hello.zs
+[22:10:01.786][DONE][SERVER][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing>
+[22:10:01.786][DONE][SERVER][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_strong>
+[22:10:01.786][DONE][SERVER][INFO] Removing Brewing recipes that output: <potion:upgrade_aquatic:vibing_long>
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "additionalenderitems:ender_torch"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "bhc:god_apple"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "charm:extra_recipes/trident"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/copper_pile_to_iron_coin"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_pile_to_gold_coin"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_ingot_to_gold_coin"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/gold_pile_to_platinum_coin"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/iron_ingot_to_iron_coin"
+[22:10:01.786][DONE][SERVER][INFO] Removing "minecraft:blasting" recipe with name: "coins:blasting/platinum_pile_to_diamond_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/copper_pile_to_iron_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_pile_to_gold_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_ingot_to_gold_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/gold_pile_to_platinum_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/iron_ingot_to_iron_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:smelting" recipe with name: "coins:furnace/platinum_pile_to_diamond_coin"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_diamond_to_platinum"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_gold_to_iron"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_iron_to_copper"
+[22:10:01.787][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "coins:crafting/downgrade_platinum_to_gold"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:diamond_blasting"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:blasting" and name: "easy_steel:emerald_from_powder_blasting"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:diamond_smelting"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:smelting" and name: "easy_steel:emerald_from_powder_smelting"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_excavator"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_excavator"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_excavator"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_excavator"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_excavator"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_hammer"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_hammer"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_hammer"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_hammer"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_hammer"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_diamond"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:crack_emerald"
+[22:10:01.787][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_paxel"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_paxel"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_paxel"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_paxel"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_paxel"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_rod"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_rod"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_rod"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:bronze_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:hardened_steel_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_hardened_steel_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_steel_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:raw_titanium_alloy_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:steel_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:titanium_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:tungsten_carbide_from_ingots2"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:saddle"
+[22:10:01.788][DONE][SERVER][WARNING] No recipe with type: "minecraft:crafting" and name: "easy_steel:name_tag"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_helmet"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_chestplate"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_leggings"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_boots"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_hoe"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_axe"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_pickaxe"
+[22:10:01.788][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_sword"
+[22:10:01.789][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "endrem:end_crystal_shovel"
+[22:10:01.789][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "minecraft:shield"
+[22:10:01.789][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "paraglider:convert_stamina_vessel"
+[22:10:01.789][DONE][SERVER][INFO] Removing "minecraft:crafting" recipe with name: "upgrade_aquatic:trident"
+[22:10:01.789][DONE][SERVER][INFO] Hello World
+[22:10:01.789][DONE][SERVER][INFO] Finished loading Scripts!
+[22:10:01.791][DONE][SERVER][INFO] This reload was made possible by otakup0pe and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[22:10:07.017][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[22:10:07.017][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield1>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield2>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield3>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield4>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield5>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield6>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield7>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield8>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield9>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield10>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield11>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield12>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield13>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield14>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:behgameon:shield15>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_helmet>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_chestplate>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_leggings>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_boots>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_hoe>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_pickaxe>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_shovel>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_sword>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_axe>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:empty_frame>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_creator>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:endrem:end_crystal_horse_armor>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:paraglider:spirit_orb>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:paraglider:heart_container>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:paraglider:horned_statue>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:dagger_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longsword_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:katana_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:saber_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:rapier_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:greatsword_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:hammer_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:warhammer_invar>
+[22:10:07.018][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:spear_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:halberd_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:pike_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:lance_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longbow_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:heavy_crossbow_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:throwing_knife_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:tomahawk_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:javelin_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:boomerang_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:battleaxe_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:flanged_mace_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:glaive_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:quarterstaff_invar>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:dagger_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longsword_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:katana_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:saber_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:rapier_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:greatsword_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:hammer_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:warhammer_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:spear_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:halberd_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:pike_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:lance_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longbow_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:heavy_crossbow_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:throwing_knife_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:tomahawk_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:javelin_electrum>
+[22:10:07.019][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:boomerang_electrum>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:battleaxe_electrum>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:flanged_mace_electrum>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:glaive_electrum>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:quarterstaff_electrum>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:dagger_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longsword_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:katana_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:saber_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:rapier_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:greatsword_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:hammer_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:warhammer_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:spear_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:halberd_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:pike_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:lance_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:longbow_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:heavy_crossbow_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:throwing_knife_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:tomahawk_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:javelin_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:boomerang_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:battleaxe_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:flanged_mace_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:glaive_nickel>
+[22:10:07.020][DONE][CLIENT][INFO] Undoing JEI hiding Item: <item:spartanweaponry:quarterstaff_nickel>
+[22:10:07.044][DONE][CLIENT][INFO] Loading file: JEI\behgameon.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: JEI\endremastered.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: JEI\paraglider.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: JEI\spartanshields.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: JEI\spartanweapons.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Potions\upgradeaquatic.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Recipes\additionalenderitems.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Recipes\baubleyheartcanisters.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Recipes\charm.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Recipes\coins.zs
+[22:10:07.045][DONE][CLIENT][INFO] Loading file: Recipes\easysteel.zs
+[22:10:07.046][DONE][CLIENT][INFO] Loading file: Recipes\endremastered.zs
+[22:10:07.046][DONE][CLIENT][INFO] Loading file: Recipes\minecraft.zs
+[22:10:07.046][DONE][CLIENT][INFO] Loading file: Recipes\paraglider.zs
+[22:10:07.046][DONE][CLIENT][INFO] Loading file: Recipes\upgradeaquatic.zs
+[22:10:07.046][DONE][CLIENT][INFO] Loading file: hello.zs
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield1>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield2>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield3>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield4>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield5>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield6>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield7>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield8>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield9>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield10>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield11>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield12>
+[22:10:07.057][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield13>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield14>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:behgameon:shield15>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_helmet>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_chestplate>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_leggings>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_boots>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_hoe>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_pickaxe>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_shovel>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_sword>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_axe>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:empty_frame>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_creator>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:endrem:end_crystal_horse_armor>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:spirit_orb>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:heart_container>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:paraglider:horned_statue>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_basic_nickel>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_basic_invar>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_basic_constantan>
+[22:10:07.058][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_basic_electrum>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_tower_nickel>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_tower_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_tower_constantan>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_tower_electrum>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_botania_manasteel>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_botania_terrasteel>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_botania_elementium>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_osmium>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_lapis_lazuli>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_refined_glowstone>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_refined_obsidian>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_powered_basic>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_powered_advanced>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_powered_elite>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanshields:shield_mekanism_powered_ultimate>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_invar>
+[22:10:07.059][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_invar>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_electrum>
+[22:10:07.060][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_electrum>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_electrum>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_electrum>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_electrum>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:dagger_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longsword_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:katana_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:saber_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:rapier_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:greatsword_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:hammer_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:warhammer_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:spear_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:halberd_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:pike_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:lance_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:longbow_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:heavy_crossbow_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:throwing_knife_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:tomahawk_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:javelin_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:boomerang_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:battleaxe_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:flanged_mace_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:glaive_nickel>
+[22:10:07.061][DONE][CLIENT][INFO] JEI Hiding Item: <item:spartanweaponry:quarterstaff_nickel>
+[22:10:07.063][DONE][CLIENT][INFO] Hello World
+[22:10:07.063][DONE][CLIENT][INFO] Finished loading Scripts!
