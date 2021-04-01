@@ -1,7 +1,7 @@
 #Tools with the Acquisition enchantment automatically pick up drops.
 "Acquisition enabled" = false
 #Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
-"AerialAffinity enabled" = false
+"AerialAffinity enabled" = true
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
 "AnvilImprovements enabled" = true
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.

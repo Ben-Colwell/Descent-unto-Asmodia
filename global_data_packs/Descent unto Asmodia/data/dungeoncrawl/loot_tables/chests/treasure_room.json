@@ -7,12 +7,6 @@
               "type": "loot_table",
               "name": "descent:chests/accessories"
             }
-          ],
-          "conditions": [
-            {
-              "condition": "random_chance",
-              "chance": 1.0
-            }
           ]
         },
     {
@@ -21,12 +15,6 @@
         {
           "type": "loot_table",
           "name": "descent:chests/coins5"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "random_chance",
-          "chance": 1.0
         }
       ]
     },
@@ -41,14 +29,11 @@
               "function": "enchant_with_levels",
               "levels": 25,
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "random_chance",
-          "chance": 1.0
         }
       ]
     },
@@ -63,14 +48,11 @@
               "function": "enchant_with_levels",
               "levels": 25,
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "random_chance",
-          "chance": 1.0
         }
       ]
     },
@@ -187,6 +169,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 25
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -198,6 +183,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 25
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -209,6 +197,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 25
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -220,6 +211,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 25
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },

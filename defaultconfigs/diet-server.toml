@@ -5,7 +5,7 @@
 	deathPenaltyMin = 0.0
 	#The reduction in percentage applied to all diet groups upon death.
 	#Range: 0.0 ~ 1.0
-	deathPenaltyLoss = 0.0
+	deathPenaltyLoss = 0.1
 
 [calculation]
 	#The percent reduction in total gain for each diet group consumed at once.

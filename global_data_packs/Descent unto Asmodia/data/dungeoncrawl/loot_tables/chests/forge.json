@@ -47,6 +47,9 @@
                   "chance": 0.60
                 }
               ]
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         }
@@ -75,6 +78,9 @@
                   "chance": 0.60
                 }
               ]
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         }
@@ -135,6 +141,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -145,6 +154,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -155,6 +167,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -165,6 +180,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -175,6 +193,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -185,6 +206,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -195,6 +219,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },
@@ -205,6 +232,9 @@
             {
               "function": "enchant_with_levels",
               "levels": 5
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         },

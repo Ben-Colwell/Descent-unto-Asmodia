@@ -262,6 +262,9 @@
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:leather_helmet"
@@ -272,6 +275,9 @@
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:leather_chestplate"
@@ -282,6 +288,9 @@
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:leather_leggings"
@@ -292,6 +301,9 @@
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:leather_boots"

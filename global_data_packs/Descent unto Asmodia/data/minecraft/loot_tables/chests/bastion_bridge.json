@@ -24,6 +24,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -56,6 +59,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -129,6 +135,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:crossbow"
@@ -232,6 +241,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_chestplate"
@@ -245,6 +257,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_helmet"
@@ -258,6 +273,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_leggings"
@@ -271,6 +289,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_boots"
@@ -284,6 +305,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_axe"

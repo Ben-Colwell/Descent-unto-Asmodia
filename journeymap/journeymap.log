@@ -1,7 +1,7 @@
-[20:00:38] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[20:00:38] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[20:00:38] [Render thread/INFO] [?] Version: JourneyMap 1.16.5-5.7.1, built with Forge 1.16.5-36.0.42
-Forge: 36.0.46
+[00:22:46] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[00:22:46] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[00:22:46] [Render thread/INFO] [?] Version: JourneyMap 1.16.5-5.7.1, built with Forge 1.16.5-36.0.42
+Forge: 36.1.2
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
 	RadarPlayers : singleplayer = true , multiplayer = true
@@ -17,18 +17,17 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, fullscreenDoubleClickToCreate=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.7.1, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=6, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.1, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[20:00:38] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.6-SNAPSHOT
-[20:00:38] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[20:00:38] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[20:00:38] [Render thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\ben52\Twitch\Minecraft\Instances\Descent%20unto%20Asmodia\mods\journeymap-1.16.5-5.7.1.jar\assets\journeymap\icon\entity
-[20:00:38] [Render thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[20:00:38] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\ben52\Twitch\Minecraft\Instances\Descent%20unto%20Asmodia\mods\journeymap-1.16.5-5.7.1.jar\assets\journeymap\theme\flat
-[20:00:38] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[20:00:39] [JM-VersionCheck-1/WARN] [VersionCheck$1] No versions found online for 1.16.5
-[21:38:48] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[21:42:01] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[21:42:54] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[21:42:54] [Render thread/INFO] [WaypointStore] Loaded 1 waypoints from C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\waypoints
-[21:42:54] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\overworld. Memory: 3661MB total, 451MB free 
-[21:43:09] [Render thread/INFO] [ChatLog] 
-[23:03:58] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\mp\offline\minecraft:overworld
+[00:22:46] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.6-SNAPSHOT
+[00:22:46] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[00:22:46] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[00:22:46] [Render thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\ben52\Twitch\Minecraft\Instances\Descent%20unto%20Asmodia\mods\journeymap-1.16.5-5.7.1.jar\assets\journeymap\icon\entity
+[00:22:46] [Render thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[00:22:46] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\ben52\Twitch\Minecraft\Instances\Descent%20unto%20Asmodia\mods\journeymap-1.16.5-5.7.1.jar\assets\journeymap\theme\flat
+[00:22:46] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[00:22:47] [JM-VersionCheck-1/WARN] [VersionCheck$1] No versions found online for 1.16.5
+[00:25:15] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[00:26:09] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[00:26:09] [Render thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\waypoints
+[00:26:09] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\sp\New World\overworld. Memory: 3964MB total, 1471MB free 
+[00:26:18] [Render thread/INFO] [ChatLog] 
+[00:54:10] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\ben52\Twitch\Minecraft\Instances\Descent unto Asmodia\journeymap\data\mp\offline\minecraft:overworld

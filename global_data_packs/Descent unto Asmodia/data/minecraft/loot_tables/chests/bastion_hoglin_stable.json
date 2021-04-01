@@ -24,6 +24,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -56,6 +59,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -111,6 +117,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_shovel"
@@ -132,6 +141,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_pickaxe"
@@ -239,6 +251,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:golden_axe"

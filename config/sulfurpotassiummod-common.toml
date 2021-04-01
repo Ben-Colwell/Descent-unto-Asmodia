@@ -2,7 +2,9 @@
 ["Disable nether/overworld for Sulfur"]
 
 	["Disable nether/overworld for Sulfur".generationconfig]
+		#No comment
 		should_sulfur_spawn_in_nether = true
+		#No comment
 		should_sulfur_spawn_in_overworld = true
 
 ["Spawn Rates Data"]

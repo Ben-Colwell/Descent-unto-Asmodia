@@ -24,6 +24,9 @@
               "chance": 0.90
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -56,6 +59,9 @@
               "chance": 0.90
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -155,6 +161,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_sword"
@@ -172,6 +181,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_chestplate"
@@ -189,6 +201,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_helmet"
@@ -206,6 +221,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_leggings"
@@ -223,6 +241,9 @@
             },
             {
               "function": "minecraft:enchant_randomly"
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_boots"

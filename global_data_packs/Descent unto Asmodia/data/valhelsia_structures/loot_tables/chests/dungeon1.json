@@ -20,6 +20,9 @@
             "chance": 0.70
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -48,6 +51,9 @@
             "chance": 0.70
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -447,6 +453,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_helmet"
@@ -463,6 +472,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_chestplate"
@@ -479,6 +491,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_leggings"
@@ -495,6 +510,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_boots"
@@ -511,6 +529,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_sword"
@@ -527,6 +548,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:bow"

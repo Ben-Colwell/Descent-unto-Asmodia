@@ -20,7 +20,10 @@
 								"minecraft:fire_protection",
 								"minecraft:unbreaking"
 							]
-						}
+						},
+						{
+							"function": "looot:name_enchanted_item"
+						  }
 					]
 				},
 				{
@@ -35,7 +38,10 @@
 								"minecraft:fire_protection",
 								"minecraft:unbreaking"
 							]
-						}
+						},
+						{
+							"function": "looot:name_enchanted_item"
+						  }
 					]
 				},
 				{
@@ -45,7 +51,10 @@
 					"functions": [
 						{
 							"function": "minecraft:enchant_randomly"
-						}
+						},
+						{
+							"function": "looot:name_enchanted_item"
+						  }
 					]
 				},
 				{
@@ -55,7 +64,10 @@
 					"functions": [
 						{
 							"function": "minecraft:enchant_randomly"
-						}
+						},
+						{
+							"function": "looot:name_enchanted_item"
+						  }
 					]
 				}
 			]

@@ -18,6 +18,9 @@
                   "chance": 0.90
                 }
               ]
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         }
@@ -46,6 +49,9 @@
                   "chance": 0.90
                 }
               ]
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         }
@@ -198,6 +204,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_sword"
@@ -214,6 +223,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_boots"
@@ -230,6 +242,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_chestplate"
@@ -246,6 +261,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_leggings"
@@ -262,6 +280,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_helmet"
@@ -278,6 +299,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_pickaxe"
@@ -294,6 +318,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:diamond_shovel"
@@ -310,6 +337,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_sword"
@@ -326,6 +356,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_boots"
@@ -342,6 +375,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_chestplate"
@@ -358,6 +394,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_leggings"
@@ -374,6 +413,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_helmet"
@@ -390,6 +432,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_pickaxe"
@@ -406,6 +451,9 @@
                 "type": "minecraft:uniform"
               },
               "treasure": true
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ],
           "name": "minecraft:iron_shovel"

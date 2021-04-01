@@ -24,6 +24,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
@@ -56,6 +59,9 @@
               "chance": 0.80
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [

@@ -18,6 +18,9 @@
             {
               "condition": "minecraft:random_chance",
               "chance": 0.90
+            },
+            {
+              "function": "looot:name_enchanted_item"
             }
           ]
         }
@@ -48,6 +51,9 @@
               "chance": 0.90
             }
           ]
+        },
+        {
+          "function": "looot:name_enchanted_item"
         }
       ],
       "conditions": [
