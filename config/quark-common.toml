@@ -462,6 +462,9 @@
 		#Can torches can be used as fuel in furnaces?
 		"Torches Burn" = true
 
+	[tweaks.note_block_mob_sounds]
+		"Enable Vocaloid" = true
+
 [world]
 	"Big Dungeon" = true
 	"Big Stone Clusters" = true

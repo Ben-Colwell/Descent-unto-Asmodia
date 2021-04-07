@@ -38,7 +38,7 @@ import crafttweaker.api.potion.MCPotionEffectInstance;
 //Vegetable
 <item:minecraft:mushroom_stew>.food = new MCFood(4, 0.5);
 <item:minecraft:dried_kelp>.food = new MCFood(1, 0).setFastEating(true);
-<item:minecraft:carrot>.food = new MCFood(1, 0);
-<item:minecraft:potato>.food = new MCFood(1, 0);
+<item:minecraft:carrot>.food = new MCFood(1, 0.25);
+<item:minecraft:potato>.food = new MCFood(1, 0.25);
 <item:minecraft:baked_potato>.food = new MCFood(3, 0.25);
 <item:minecraft:beetroot_soup>.food = new MCFood(3, 0.5);

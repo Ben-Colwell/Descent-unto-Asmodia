@@ -1478,20 +1478,6 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
-#Options for the platos mod.
-[platos]
-
-	#Spawning options for platos:block_ship
-	[platos.block_ship]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
 #Options for the adorn mod.
 [adorn]
 
@@ -3285,6 +3271,28 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
+	#Spawning options for smallships:tnboat
+	[smallships.tnboat]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for smallships:war_galley
+	[smallships.war_galley]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
 #Options for the conjurer_illager mod.
 [conjurer_illager]
 
@@ -4911,6 +4919,20 @@
 
 	#Spawning options for goblintraders:vein_goblin_trader
 	[goblintraders.vein_goblin_trader]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the platos mod.
+[platos]
+
+	#Spawning options for platos:block_ship
+	[platos.block_ship]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
