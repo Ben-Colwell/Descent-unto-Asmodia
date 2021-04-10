@@ -1,0 +1,22 @@
+name: moat_silver_ore
+mod: moat
+block: {
+  location: moat:silver_ore
+  hardness: 3
+  level: 2
+}
+texture: {
+  original: moat:block/silver_ore
+}
+recipe: {
+  result: moat:silver_ingot
+  xp: 0.15
+}
+loot: moat:blocks/silver_ore
+gen: [
+  {
+    height: [ 0, 45 ]
+    count: 2
+    size: 13
+  }
+]

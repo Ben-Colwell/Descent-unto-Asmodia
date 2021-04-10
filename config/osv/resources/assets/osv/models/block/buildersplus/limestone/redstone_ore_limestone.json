@@ -1,0 +1,18 @@
+{
+  "loader": "forge:multi-layer",
+  "parent": "block/block",
+  "textures": {
+    "particle": "buildersplus:blocks/limestone"
+  },
+  "layers": {
+    "solid": {
+      "parent": "buildersplus:block/limestone/limestone"
+    },
+    "translucent": {
+      "parent": "osv:block/overlay",
+      "textures": {
+        "overlay": "osv:block/minecraft/redstone_ore_overlay_shaded"
+      }
+    }
+  }
+}

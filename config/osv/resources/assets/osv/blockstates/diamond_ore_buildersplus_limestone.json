@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/limestone/diamond_ore_limestone"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/limestone/dense_diamond_ore_limestone"
+    }
+  }
+}

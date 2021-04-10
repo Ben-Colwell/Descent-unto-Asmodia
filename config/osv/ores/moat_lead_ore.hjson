@@ -1,0 +1,22 @@
+name: moat_lead_ore
+mod: moat
+block: {
+  location: moat:lead_ore
+  hardness: 3
+  level: 2
+}
+texture: {
+  original: moat:block/lead_ore
+}
+recipe: {
+  result: moat:lead_ingot
+  xp: 0.15
+}
+loot: moat:blocks/lead_ore
+gen: [
+  {
+    height: [ 0, 30 ]
+    count: 1
+    size: 11
+  }
+]

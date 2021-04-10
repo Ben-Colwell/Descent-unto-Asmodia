@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/minecraft/moat_platinum_ore_diorite"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/minecraft/dense_moat_platinum_ore_diorite"
+    }
+  }
+}

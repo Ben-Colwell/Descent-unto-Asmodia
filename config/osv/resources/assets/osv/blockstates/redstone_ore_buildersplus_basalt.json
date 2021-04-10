@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/basalt/redstone_ore_basalt"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/basalt/dense_redstone_ore_basalt"
+    }
+  }
+}

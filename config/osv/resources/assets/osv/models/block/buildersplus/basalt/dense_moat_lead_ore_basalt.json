@@ -1,0 +1,18 @@
+{
+  "loader": "forge:multi-layer",
+  "parent": "block/block",
+  "textures": {
+    "particle": "buildersplus:blocks/basalt"
+  },
+  "layers": {
+    "solid": {
+      "parent": "buildersplus:block/basalt/basalt"
+    },
+    "translucent": {
+      "parent": "osv:block/overlay",
+      "textures": {
+        "overlay": "osv:block/moat/dense_lead_ore_overlay"
+      }
+    }
+  }
+}

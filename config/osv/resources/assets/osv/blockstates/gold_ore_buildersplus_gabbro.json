@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/gabbro/gold_ore_gabbro"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/gabbro/dense_gold_ore_gabbro"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/basalt/moat_silver_ore_basalt"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/basalt/dense_moat_silver_ore_basalt"
+    }
+  }
+}

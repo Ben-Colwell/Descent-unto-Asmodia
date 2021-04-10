@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/basalt/iron_ore_basalt"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/basalt/dense_iron_ore_basalt"
+    }
+  }
+}

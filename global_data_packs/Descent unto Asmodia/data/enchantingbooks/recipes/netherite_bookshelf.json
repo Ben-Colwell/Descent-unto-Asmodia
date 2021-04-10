@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "enchantingbooks:netherite_book"
+    }
+  },
+  "result": {
+    "item": "enchantingbooks:netherite_bookshelf"
+  }
+}

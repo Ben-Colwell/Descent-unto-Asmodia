@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/dacite/gold_ore_dacite"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/dacite/dense_gold_ore_dacite"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/basalt/gold_ore_basalt"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/basalt/dense_gold_ore_basalt"
+    }
+  }
+}

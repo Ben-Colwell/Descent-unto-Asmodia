@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/quark/moat_lead_ore_slate"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/quark/dense_moat_lead_ore_slate"
+    }
+  }
+}

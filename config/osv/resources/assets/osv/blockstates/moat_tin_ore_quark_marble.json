@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/quark/moat_tin_ore_marble"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/quark/dense_moat_tin_ore_marble"
+    }
+  }
+}

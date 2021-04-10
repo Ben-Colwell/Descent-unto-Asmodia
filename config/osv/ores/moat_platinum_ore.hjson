@@ -1,0 +1,22 @@
+name: moat_platinum_ore
+mod: moat
+block: {
+  location: moat:platinum_ore
+  hardness: 3
+  level: 2
+}
+texture: {
+  original: moat:block/platinum_ore
+}
+recipe: {
+  result: moat:platinum_ingot
+  xp: 0.15
+}
+loot: moat:blocks/platinum_ore
+gen: [
+  {
+    height: [ 0, 30 ]
+    count: 1
+    size: 11
+  }
+]

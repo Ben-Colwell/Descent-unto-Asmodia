@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/dacite/moat_copper_ore_dacite"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/dacite/dense_moat_copper_ore_dacite"
+    }
+  }
+}

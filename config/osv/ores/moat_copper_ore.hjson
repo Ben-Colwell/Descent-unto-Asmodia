@@ -1,0 +1,22 @@
+name: moat_copper_ore
+mod: moat
+block: {
+  location: moat:copper_ore
+  hardness: 3
+  level: 1
+}
+texture: {
+  original: moat:block/copper_ore
+}
+recipe: {
+  result: moat:copper_ingot
+  xp: 0.15
+}
+loot: moat:blocks/copper_ore
+gen: [
+  {
+    height: [ 0, 90 ]
+    count: 22
+    size: 14
+  }
+]

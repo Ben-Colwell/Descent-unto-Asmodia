@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/marble/moat_lead_ore_marble"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/marble/dense_moat_lead_ore_marble"
+    }
+  }
+}

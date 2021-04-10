@@ -1,0 +1,22 @@
+name: moat_tin_ore
+mod: moat
+block: {
+  location: moat:tin_ore
+  hardness: 3
+  level: 1
+}
+texture: {
+  original: moat:block/tin_ore
+}
+recipe: {
+  result: moat:tin_ingot
+  xp: 0.15
+}
+loot: moat:blocks/tin_ore
+gen: [
+  {
+    height: [ 0, 90 ]
+    count: 22
+    size: 14
+  }
+]

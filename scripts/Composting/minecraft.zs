@@ -1,0 +1,1 @@
+composter.setValue(<item:minecraft:bamboo>, 0.50);

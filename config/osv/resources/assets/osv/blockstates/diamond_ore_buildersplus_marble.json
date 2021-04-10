@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/buildersplus/marble/diamond_ore_marble"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/buildersplus/marble/dense_diamond_ore_marble"
+    }
+  }
+}
