@@ -1,7 +1,7 @@
 
 [General]
 	#Allowed mod biomes where the mobs can spawn, by ID like: minecraft, biomesoplenty, etc.
-	modIDs = ["minecraft"]
+	modIDs = ["minecraft", "biomesoplenty", "omni", "betterendforge", "outer_end"]
 	#Sporers should only spawn in rain?
 	sporerOnlySpawnInRain = true
 
@@ -11,7 +11,7 @@
 	#Range: 0 ~ 32
 	cursedSkullMaxGroupSize = 1
 	#Range: 0 ~ 500
-	cursedSkullWeight = 0
+	cursedSkullWeight = 10
 	cursedSkullBiomeDictionaries = ["OVERWORLD"]
 
 ["Ender Beast spawn parameters"]
@@ -20,7 +20,7 @@
 	#Range: 0 ~ 32
 	enderBeastMaxGroupSize = 1
 	#Range: 0 ~ 500
-	enderBeastWeight = 0
+	enderBeastWeight = 10
 	enderBeastBiomeDictionaries = ["END"]
 
 ["Grand Rammer spawn parameters"]
@@ -29,25 +29,25 @@
 	#Range: 0 ~ 32
 	grandRammerMaxGroupSize = 1
 	#Range: 0 ~ 500
-	grandRammerWeight = 0
+	grandRammerWeight = 5
 	grandRammerBiomeDictionaries = ["OVERWORLD"]
 
 ["Ghoul spawn parameters"]
 	#Range: 0 ~ 32
-	ghoulMinGroupSize = 1
+	ghoulMinGroupSize = 2
 	#Range: 0 ~ 32
-	ghoulMaxGroupSize = 1
+	ghoulMaxGroupSize = 4
 	#Range: 0 ~ 500
-	ghoulWeight = 0
+	ghoulWeight = 100
 	ghoulBiomeDictionaries = ["OVERWORLD"]
 
 ["Ice Elemental spawn parameters"]
 	#Range: 0 ~ 32
 	iceElementalMinGroupSize = 1
 	#Range: 0 ~ 32
-	iceElementalMaxGroupSize = 1
+	iceElementalMaxGroupSize = 2
 	#Range: 0 ~ 500
-	iceElementalWeight = 0
+	iceElementalWeight = 80
 	iceElementalBiomeDictionaries = ["SNOWY"]
 
 ["Jungle Golem spawn parameters"]
@@ -56,7 +56,7 @@
 	#Range: 0 ~ 32
 	jungleGolemMaxGroupSize = 1
 	#Range: 0 ~ 500
-	jungleGolemWeight = 0
+	jungleGolemWeight = 5
 	jungleGolemBiomeDictionaries = ["JUNGLE"]
 
 ["Magma Gulper spawn parameters"]
@@ -65,16 +65,16 @@
 	#Range: 0 ~ 32
 	magmaGulperMaxGroupSize = 1
 	#Range: 0 ~ 500
-	magmaGulperWeight = 0
+	magmaGulperWeight = 30
 	magmaGulperBiomeDictionaries = ["NETHER"]
 
 ["Magma Slime spawn parameters"]
 	#Range: 0 ~ 32
 	magmaSlimeMinGroupSize = 1
 	#Range: 0 ~ 32
-	magmaSlimeMaxGroupSize = 1
+	magmaSlimeMaxGroupSize = 3
 	#Range: 0 ~ 500
-	magmaSlimeWeight = 0
+	magmaSlimeWeight = 20
 	magmaSlimeBiomeDictionaries = ["NETHER"]
 
 ["Manhunter spawn parameters"]
@@ -83,7 +83,7 @@
 	#Range: 0 ~ 32
 	manhunterMaxGroupSize = 1
 	#Range: 0 ~ 500
-	manhunterWeight = 0
+	manhunterWeight = 5
 	manhunterBiomeDictionaries = ["OVERWORLD"]
 
 ["Mummy spawn parameters"]
@@ -92,16 +92,16 @@
 	#Range: 0 ~ 32
 	mummyMaxGroupSize = 1
 	#Range: 0 ~ 500
-	mummyWeight = 0
+	mummyWeight = 10
 	mummyBiomeDictionaries = ["SANDY"]
 
 ["Mundane Slime spawn parameters"]
 	#Range: 0 ~ 32
 	mundaneSlimeMinGroupSize = 1
 	#Range: 0 ~ 32
-	mundaneSlimeMaxGroupSize = 1
+	mundaneSlimeMaxGroupSize = 4
 	#Range: 0 ~ 500
-	mundaneSlimeWeight = 0
+	mundaneSlimeWeight = 40
 	mundaneSlimeBiomeDictionaries = ["FOREST", "PLAINS"]
 
 ["Nyctoid spawn parameters"]
@@ -119,7 +119,7 @@
 	#Range: 0 ~ 32
 	possessedArmorMaxGroupSize = 1
 	#Range: 0 ~ 500
-	possessedArmorWeight = 0
+	possessedArmorWeight = 60
 	possessedArmorBiomeDictionaries = ["OVERWORLD"]
 
 ["Rammer spawn parameters"]
@@ -128,7 +128,7 @@
 	#Range: 0 ~ 32
 	rammerMaxGroupSize = 1
 	#Range: 0 ~ 500
-	rammerWeight = 0
+	rammerWeight = 5
 	rammerBiomeDictionaries = ["FOREST", "PLAINS"]
 
 ["Sporer spawn parameters"]
@@ -136,8 +136,8 @@
 	#Range: 0 ~ 32
 	sporerMinGroupSize = 1
 	#Range: 0 ~ 32
-	sporerMaxGroupSize = 1
+	sporerMaxGroupSize = 2
 	#Range: 0 ~ 500
-	sporerWeight = 0
+	sporerWeight = 10
 	sporerBiomeDictionaries = ["OVERWORLD"]
 

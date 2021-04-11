@@ -1,33 +1,1125 @@
 [
     {
-      "mob": ["minecraft:zombie"],
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
       "gamestage": "1_spawn",
       "result": "allow",
       "healthadd": 2,
       "damageadd": 1,
+      "speedmultiply": 1.4,
       "nbt": {
       "Attributes":[
-        {"Name":"generic.follow_range","Base" :44}
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
         ]
       }
     },
     {
-      "mob": ["minecraft:zombie"],
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
       "gamestage": "2_enchantments",
       "result": "allow",
-      "healthadd": 3,
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :4},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :9},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie", "minecraft:husk", "minecraft:zombie_villager", "minecraft:drowned", "dannys_expansion:wrapped", "savageandravage:skeleton_villager"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :10},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :4},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :9},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:zombie_piglin"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :10},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.3,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.35,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.35,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:piglin"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:blaze"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:creeper", "minecraft:silverfish", "minecraft:skeleton", "minecraft:stray", "minecraft:witch"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.3,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.35,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.35,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:cave_spider", "minecraft:enderman", "minecraft:hoglin", "minecraft:ravager", "minecraft:spider", "minecraft:wolf", "minecraft:zoglin"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.35,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:pillager", "minecraft:vindicator"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "1_spawn",
+      "result": "allow",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "2_enchantments",
+      "result": "allow",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.2,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["minecraft:evoker", "minecraft:phantom", "minecraft:vex"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.25,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "1_spawn",
+      "result": "deny"
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "2_enchantments",
+      "result": "deny"
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:possessed_armor"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "1_spawn",
+      "result": "deny",
+      "healthadd": 2,
+      "damageadd": 1,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "2_enchantments",
+      "result": "deny",
+      "healthadd": 4,
+      "damageadd": 2,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "3_nether",
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "speedmultiply": 1.4,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "speedmultiply": 1.5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["dannys_expansion:ghoul", "dannys_expansion:manhunter", "dannys_expansion:jungle_golem", "dannys_expansion:grand_rammer", "dannys_expansion:cursed_skull", "dannys_expansion:magma_gulper", "dannys_expansion:ice_elemental", "dannys_expansion:mummy", "dannys_expansion:rammer", "dannys_expansion:sporer", "dannys_expansion:nyctoid"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "speedmultiply": 1.55,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "1_spawn",
+      "result": "deny",
+      "healthadd": 2,
+      "damageadd": 1,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :1},
+        {"Name":"generic.armor_toughness","Base" :0},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "2_enchantments",
+      "result": "deny",
+      "healthadd": 4,
       "damageadd": 2,
       "nbt": {
       "Attributes":[
-        {"Name":"generic.follow_range","Base" :44},
-        {"Name":"generic.armor","Base" :3}
+        {"Name":"generic.armor", "Base" :2},
+        {"Name":"generic.armor_toughness","Base" :1},
+        {"Name":"generic.follow_range","Base" :50}
         ]
       }
     },
     {
-      "mob": ["minecraft:zombie"],
+      "mob": ["pandoras_creatures:arachnon"],
       "gamestage": "3_nether",
-      "result": "allow"
+      "result": "allow",
+      "healthadd": 5,
+      "damageadd": 3,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :3},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :50}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "4_potions",
+      "result": "allow",
+      "healthadd": 6,
+      "damageadd": 5,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :5},
+        {"Name":"generic.armor_toughness","Base" :2},
+        {"Name":"generic.follow_range","Base" :55}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "5_netherite",
+      "result": "allow",
+      "healthadd": 8,
+      "damageadd": 6,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :6},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :60}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "6_wither",
+      "result": "allow",
+      "healthadd": 9,
+      "damageadd": 7,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :7},
+        {"Name":"generic.armor_toughness","Base" :3},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
+    },
+    {
+      "mob": ["pandoras_creatures:arachnon"],
+      "gamestage": "7_dragon",
+      "result": "allow",
+      "healthadd": 10,
+      "damageadd": 8,
+      "nbt": {
+      "Attributes":[
+        {"Name":"generic.armor", "Base" :8},
+        {"Name":"generic.armor_toughness","Base" :4},
+        {"Name":"generic.follow_range","Base" :65}
+        ]
+      }
     }
   ]
-  

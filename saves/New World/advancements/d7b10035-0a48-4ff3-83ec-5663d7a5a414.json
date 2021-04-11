@@ -233,9 +233,21 @@
     },
     "done": true
   },
+  "smallships:recipes/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-04-10 00:25:07 -0400"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
     },
     "done": true
   },
@@ -467,6 +479,12 @@
     },
     "done": true
   },
+  "smallships:recipes/birch_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
+    },
+    "done": true
+  },
   "smallships:recipes/sail_item": {
     "criteria": {
       "in_water": "2021-04-10 11:09:59 -0400"
@@ -632,6 +650,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-04-10 00:25:07 -0400"
+    },
+    "done": true
+  },
+  "smallships:recipes/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
     },
     "done": true
   },
@@ -995,9 +1019,21 @@
     },
     "done": true
   },
+  "smallships:recipes/oak_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-04-10 00:25:07 -0400"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2021-04-10 15:13:58 -0400"
     },
     "done": true
   },

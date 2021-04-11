@@ -136,11 +136,11 @@
      # Whether vanilla spawning of ores should be blocked.
     enableVanillaOres: false
      # Whether vanilla spawning of stone variants should be blocked.
-    enableVanillaStone: false
+    enableVanillaStone: true
      # Whether to spawn custom ore variants.
     enableOSVOres: true
      # Whether to spawn stone types with custom variables.
-    enableOSVStone: true
+    enableOSVStone: false
      # Will automatically defer ore generation by one stage
      # in the presence of any of these mods. This is needed
      # to fully support Quark at the moment.
