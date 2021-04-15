@@ -3,8 +3,8 @@
   "pools": [
     {
       "rolls": {
-        "min": 5,
-        "max": 7
+        "min": 2,
+        "max": 4
       },
       "bonus_rolls": 0,
       "entries": [
@@ -30,8 +30,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -44,8 +44,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 10
+                "min": 7,
+                "max": 9
               }
             }
           ]
@@ -58,8 +58,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 10,
-                "max": 18
+                "min": 7,
+                "max": 13
               }
             }
           ]
@@ -72,8 +72,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 30,
-                "max": 40
+                "min": 12,
+                "max": 18
               }
             }
           ]

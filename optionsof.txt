@@ -1,4 +1,4 @@
-ofFogType:3
+ofFogType:2
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
@@ -6,9 +6,9 @@ ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:2
-ofCloudsHeight:0.0
-ofTrees:0
-ofDroppedItems:0
+ofCloudsHeight:1.0
+ofTrees:2
+ofDroppedItems:2
 ofRain:0
 ofAnimatedWater:0
 ofAnimatedLava:0
@@ -36,7 +36,7 @@ ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
-ofVignette:0
+ofVignette:2
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:0
@@ -65,7 +65,7 @@ ofCustomGuis:true
 ofShowGlErrors:true
 ofFastMath:false
 ofFastRender:false
-ofTranslucentBlocks:0
+ofTranslucentBlocks:2
 ofChatBackground:0
 ofChatShadow:true
 key_of.key.zoom:key.keyboard.c

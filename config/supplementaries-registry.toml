@@ -50,7 +50,6 @@
 		stone_lamp = false
 		#WIP
 		laser_block = false
-		#WIP
 		flag = false
 		bamboo_spikes = false
 		checker_block = true
@@ -65,6 +64,7 @@
 		fodder = true
 		bomb = true
 		magma_cream_block = true
+		crimson_lantern = true
 
 	[registration.entities]
 		firefly = true

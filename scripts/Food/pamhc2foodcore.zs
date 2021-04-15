@@ -1,6 +1,137 @@
 import crafttweaker.api.food.MCFood;
 import crafttweaker.api.potion.MCPotionEffectInstance;
 
+//Sort Later, can't be bothered right now
+<item:pamhc2foodextended:beansandriceitem>.food = new MCFood(7, 0.25);
+<item:pamhc2foodextended:cornmealitem>.food = new MCFood(1, 0.25);
+<item:pamhc2foodextended:tortillaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:salsaitem>.food = new MCFood(7, 0.25);
+<item:pamhc2foodextended:chimichangaitem>.food = new MCFood(18, 0.5);
+<item:pamhc2foodextended:tortillachipsitem>.food = new MCFood(4, 0.5);
+<item:pamhc2foodextended:chipsandsalsaitem>.food = new MCFood(12, 0.5);
+<item:pamhc2foodextended:deluxenachoesitem>.food = new MCFood(18, 0.5).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:enchiladaitem>.food = new MCFood(12, 0.5).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:fiestacornsaladitem>.food = new MCFood(9, 0.45).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:fishtacoitem>.food = new MCFood(11, 0.5);
+<item:pamhc2foodextended:garlicbreaditem>.food = new MCFood(7, 0.45);
+<item:pamhc2foodextended:garlicchickenitem>.food = new MCFood(10, 0.5);
+<item:pamhc2foodextended:garlicmashedpotatoesitem>.food = new MCFood(8, 0.45);
+<item:pamhc2foodextended:hamandpineapplepizzaitem>.food = new MCFood(10, 0.5);
+<item:pamhc2foodextended:meatfeastpizzaitem>.food = new MCFood(18, 0.5);
+<item:pamhc2foodextended:sausageitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:nachoesitem>.food = new MCFood(7, 0.25);
+<item:pamhc2foodextended:pepperonipizzaitem>.food = new MCFood(10, 0.5);
+<item:pamhc2foodextended:pizzasliceitem>.food = new MCFood(2, 0.35);
+<item:pamhc2foodextended:quesadillaitem>.food = new MCFood(6, 0.45);
+<item:pamhc2foodextended:refriedbeansitem>.food = new MCFood(5, 0.45);
+<item:pamhc2foodextended:spagettiandmeatballsitem>.food = new MCFood(9, 0.5);
+<item:pamhc2foodextended:spaghettidinneritem>.food = new MCFood(18, 0.5);
+<item:pamhc2foodextended:stuffedchilipeppersitem>.food = new MCFood(10, 0.5).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:supremepizzaitem>.food = new MCFood(11, 0.5);
+<item:pamhc2foodextended:tacoitem>.food = new MCFood(10, 0.5);
+<item:pamhc2foodextended:bbqpotatochipsitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cheddarandsourcreampotatochipsitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:candiedgingeritem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:candiedlemonitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:candiedpecansitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:candiedsweetpotatoesitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:candiedwalnutsitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chilichocolateitem>.food = new MCFood(3, 0.25).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:chipsanddipitem>.food = new MCFood(6, 0.25);
+<item:pamhc2foodextended:chocolatecherryitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chocolatecoconutbaritem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chocolateorangeitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chocolatepeanutbaritem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chocolatestrawberryitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:cornchipsitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:crispyricepuffbarsitem>.food = new MCFood(3, 0.35);
+<item:pamhc2foodextended:hazelnutchocolateitem>.food = new MCFood(3, 0.35);
+<item:pamhc2foodextended:maplecandiedbaconitem>.food = new MCFood(5, 0.45);
+<item:pamhc2foodextended:marzipanitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:peanutbuttercupitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:peppermintitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:popcornitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:pralinesitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:rootbeerfloatitem>.food = new MCFood(7, 0.5);
+<item:pamhc2foodextended:sesamesnapsitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:sourcreamandonionpotatochipsitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:theatreboxitem>.food = new MCFood(9, 0.5);
+<item:pamhc2foodextended:ediblerootitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:baconmushroomburgeritem>.food = new MCFood(10, 0.75);
+<item:pamhc2foodextended:bamboosteamedriceitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:bananasplititem>.food = new MCFood(9, 0.25);
+<item:pamhc2foodextended:biscuititem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:gravyitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:biscuitsandgravyitem>.food = new MCFood(7, 0.5);
+<item:pamhc2foodextended:bltitem>.food = new MCFood(8, 0.5);
+<item:pamhc2foodextended:breadedporkchopitem>.food = new MCFood(8, 0.35);
+<item:pamhc2foodextended:broccolimacitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:brownieitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:cheezepuffsitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cherryicecreamitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:chickennoodlesoupitem>.food = new MCFood(8, 0.45);
+<item:pamhc2foodextended:chiliitem>.food = new MCFood(10, 0.45).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:chilidogitem>.food = new MCFood(19, 0.5).addEffect(<effect:toughasnails:thirst>.newInstance(200, 0), 1);
+<item:pamhc2foodextended:groundcinnamonitem>.food = new MCFood(1, 0).addEffect(<effect:toughasnails:thirst>.newInstance(300, 0), 1);
+<item:pamhc2foodextended:cinnamonappleoatmealitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:cinnamonsugardonutitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cinnamontoastitem>.food = new MCFood(6, 0.35);
+<item:pamhc2foodextended:coleslawitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cornbreaditem>.food = new MCFood(3, 0.25).addEffect(<effect:toughasnails:thirst>.newInstance(100, 0), 1);
+<item:pamhc2foodextended:corndogitem>.food = new MCFood(6, 0.35);
+<item:pamhc2foodextended:cornflakesitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:cornonthecobitem>.food = new MCFood(6, 0.35);
+<item:pamhc2foodextended:cranberrysauceitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:crispyricepuffcerealitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:mcpamitem>.food = new MCFood(12, 0.5);
+<item:pamhc2foodextended:delightedmealitem>.food = new MCFood(20, 0.55);
+<item:pamhc2foodextended:deluxecheeseburgeritem>.food = new MCFood(12, 0.5);
+<item:pamhc2foodextended:eggsaladitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:epicbltitem>.food = new MCFood(11, 0.5);
+<item:pamhc2foodextended:frenchtoastitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:frosteddonutitem>.food = new MCFood(8, 0.35);
+<item:pamhc2foodextended:greenbeancasseroleitem>.food = new MCFood(5, 0.45);
+<item:pamhc2foodextended:loadedbakedpotatoitem>.food = new MCFood(12, 0.5);
+<item:pamhc2foodextended:mapleoatmealitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:maplesyruppancakesitem>.food = new MCFood(7, 0.45);
+
+<item:pamhc2foodextended:maplesyrupwafflesitem>.food = new MCFood(7, 0.45);
+<item:pamhc2foodextended:mozzerellasticksitem>.food = new MCFood(5, 0.35);
+<item:pamhc2foodextended:pancakesitem>.food = new MCFood(6, 0.45);
+<item:pamhc2foodextended:peachesandcreamoatmealitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:potatosaladitem>.food = new MCFood(7, 0.3);
+<item:pamhc2foodextended:potatoskinsitem>.food = new MCFood(8, 0.3);
+<item:pamhc2foodextended:powdereddonutitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:wafflesitem>.food = new MCFood(6, 0.45);
+
+//Tofu
+<item:pamhc2foodextended:soymilkitem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:silkentofuitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:firmtofuitem>.food = new MCFood(3, 0.5);
+<item:pamhc2foodextended:rawtofabbititem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:rawtofaconitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:rawtofeakitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:rawtofickenitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:rawtofishitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:rawtofuttonitem>.food = new MCFood(4, 0.25);
+<item:pamhc2foodextended:cookedtofabbititem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cookedtofaconitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cookedtofeakitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cookedtofickenitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cookedtofishitem>.food = new MCFood(5, 0.25);
+<item:pamhc2foodextended:cookedtofuttonitem>.food = new MCFood(5, 0.25);
+
+//Nut Butter
+<item:pamhc2foodextended:almondbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:cashewbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:chestnutbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:hazelnutbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:peanutbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:pecanbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:pistachiobutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:walnutbutteritem>.food = new MCFood(2, 0.25);
+<item:pamhc2foodextended:sunflowerseedsbutteritem>.food = new MCFood(2, 0.25);
+
 //Fruit
 <item:pamhc2foodcore:fruitsaladitem>.food = new MCFood(3, 0.4);
 
@@ -14,6 +145,7 @@ import crafttweaker.api.potion.MCPotionEffectInstance;
 <item:pamhc2foodcore:sunflowerseedsitem>.food = new MCFood(2, 0.25);
 <item:pamhc2foodcore:roastedsunflowerseedsitem>.food = new MCFood(4, 0.3);
 <item:pamhc2foodcore:bakedvegetablemedlyitem>.food = new MCFood(3, 0.4);
+<item:pamhc2foodextended:bbqsauceitem>.food = new MCFood(2, 0.25);
 
 //Raw Meat
 <item:pamhc2foodcore:groundchickenitem>.food = new MCFood(1, 0).addEffect(<effect:minecraft:hunger>.newInstance(600, 0), 0.8);
@@ -38,6 +170,9 @@ import crafttweaker.api.potion.MCPotionEffectInstance;
 <item:pamhc2foodcore:scrambledeggitem>.food = new MCFood(4, 0.25);
 <item:pamhc2foodcore:stockitem>.food = new MCFood(1, 0.25);
 <item:pamhc2foodcore:meatloafitem>.food = new MCFood(6, 0.5);
+<item:pamhc2foodextended:pepperoniitem>.food = new MCFood(2, 0.5);
+<item:pamhc2foodextended:anchovypepperonipizzaitem>.food = new MCFood(10, 0.5);
+<item:pamhc2foodextended:bbqchickenpizzaitem>.food = new MCFood(10, 0.5);
 
 //Jerky
 <item:pamhc2foodcore:chickenjerkyitem>.food = new MCFood(4, 0.25);
@@ -118,6 +253,18 @@ import crafttweaker.api.potion.MCPotionEffectInstance;
 <item:pamhc2foodcore:jellybeansitem>.food = new MCFood(2, 0.25);
 
 //Juice
+<item:pamhc2foodextended:cherrysodaitem>.food = new MCFood(3, 0.5);
+<item:pamhc2foodextended:grapesodaitem>.food = new MCFood(3, 0.2);
+<item:pamhc2foodextended:grapefruitsodaitem>.food = new MCFood(3, 0.5);
+<item:pamhc2foodextended:lemonlimesodaitem>.food = new MCFood(3, 0.5);
+<item:pamhc2foodextended:colasodaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:energydrinkitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:gingersodaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:orangesodaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:rootbeersodaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:strawberrysodaitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:carrotjuiceitem>.food = new MCFood(3, 0.25);
+<item:pamhc2foodextended:chocolatemilkitem>.food = new MCFood(3, 0.25);
 <item:pamhc2foodcore:fruitpunchitem>.food = new MCFood(4, 0.25);
 <item:pamhc2foodcore:applejuiceitem>.food = new MCFood(3, 0.5);
 <item:pamhc2foodcore:melonjuiceitem>.food = new MCFood(3, 0.5);
@@ -220,6 +367,7 @@ import crafttweaker.api.potion.MCPotionEffectInstance;
 <item:pamhc2foodextended:limejellyitem>.food = new MCFood(3, 0.5);
 
 //Jelly Sandwiches
+<item:pamhc2foodextended:sweetberryjellysandwichitem>.food = new MCFood(9, 0.55);
 <item:pamhc2foodextended:melonjellysandwichitem>.food = new MCFood(9, 0.5);
 <item:pamhc2foodextended:blackberryjellysandwichitem>.food = new MCFood(9, 0.5);
 <item:pamhc2foodextended:blueberryjellysandwichitem>.food = new MCFood(9, 0.5);
