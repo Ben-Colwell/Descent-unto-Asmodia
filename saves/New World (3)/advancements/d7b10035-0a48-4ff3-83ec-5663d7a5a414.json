@@ -1,0 +1,27 @@
+{
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2021-04-19 18:19:17 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grove": "2021-04-19 18:18:56 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "grove": "2021-04-19 18:18:56 -0400"
+    },
+    "done": false
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2021-04-19 18:19:17 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

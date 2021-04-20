@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooden_hoe",
+    "minecraft:stone_hoe",
+    "minecraft:iron_hoe",
+    "minecraft:golden_hoe",
+    "minecraft:diamond_hoe",
+    "minecraft:netherite_hoe",
+    "moat:tin_hoe",
+    "moat:copper_hoe",
+    "moat:bronze_hoe",
+    "moat:lead_hoe",
+    "moat:steel_hoe",
+    "moat:silver_hoe",
+    "moat:platinum_hoe",
+    "undergarden:cloggrum_hoe",
+    "undergarden:froststeel_hoe",
+    "undergarden:utheric_hoe",
+    "undergarden:forgotten_hoe",
+    "betterendforge:aeternium_hoe",
+    "betterendforge:thallasium_hoe",
+    "betterendforge:terminite_hoe",
+    "gildedingot:gilded_hoe"
+  ]
+}

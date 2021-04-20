@@ -1,0 +1,93 @@
+{
+  "id": "tiered:sharp",
+  "verifiers": [
+    {
+      "tag": "spartanweaponry:longswords"
+    },
+    {
+      "tag": "spartanweaponry:daggers"
+    },
+    {
+      "tag": "spartanweaponry:katanas"
+    },
+    {
+      "tag": "spartanweaponry:sabers"
+    },
+    {
+      "tag": "spartanweaponry:rapiers"
+    },
+    {
+      "tag": "spartanweaponry:greatswords"
+    },
+    {
+      "tag": "spartanweaponry:clubs"
+    },
+    {
+      "tag": "spartanweaponry:cestusae"
+    },
+    {
+      "tag": "spartanweaponry:battle_hammers"
+    },
+    {
+      "tag": "spartanweaponry:warhammers"
+    },
+    {
+      "tag": "spartanweaponry:spears"
+    },
+    {
+      "tag": "spartanweaponry:halberds"
+    },
+    {
+      "tag": "spartanweaponry:pikes"
+    },
+    {
+      "tag": "spartanweaponry:lances"
+    },
+    {
+      "tag": "spartanweaponry:throwing_knives"
+    },
+    {
+      "tag": "spartanweaponry:tomahawks"
+    },
+    {
+      "tag": "spartanweaponry:javelins"
+    },
+    {
+      "tag": "spartanweaponry:boomerangs"
+    },
+    {
+      "tag": "spartanweaponry:battleaxes"
+    },
+    {
+      "tag": "spartanweaponry:flanged_maces"
+    },
+    {
+      "tag": "spartanweaponry:glaives"
+    },
+    {
+      "tag": "spartanweaponry:quarterstaff"
+    },
+    {
+      "tag": "forge:swords"
+    },
+    {
+      "tag": "forge:axes"
+    }
+  ],
+  "style": {
+    "color": "red"
+  },
+  "attributes": [
+    {
+      "type": "generic.attack_damage",
+      "modifier": {
+        "name": "tiered:sharp",
+        "operation": "MULTIPLY_TOTAL",
+        "amount": 0.15
+      },
+      "optional_equipment_slots": [
+        "MAINHAND"
+      ]
+    }
+  ]
+}

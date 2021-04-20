@@ -1,0 +1,36 @@
+{
+  "id": "tiered:reinforced",
+  "verifiers": [
+    {
+      "tag": "forge:helmets"
+    },
+    {
+      "tag": "forge:chestplates"
+    },
+    {
+      "tag": "forge:leggings"
+    },
+    {
+      "tag": "forge:boots"
+    }
+  ],
+  "style": {
+    "color": "dark_gray"
+  },
+  "attributes": [
+    {
+      "type": "generic.armor",
+      "modifier": {
+        "name": "tiered:reinforced",
+        "operation": "ADDITION",
+        "amount": 2
+      },
+      "optional_equipment_slots": [
+        "FEET",
+        "LEGS",
+        "CHEST",
+        "HEAD"
+      ]
+    }
+  ]
+}

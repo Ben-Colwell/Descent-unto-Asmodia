@@ -21,6 +21,8 @@
 	"Use Fast Worldgen" = false
 	#Quark replaces the Piston logic to allow for its piston features to work. If you're having troubles, try turning this off.
 	"Use Piston Logic Replacement" = false
+	#Allowed values: (0,)
+	"Advancement Visibility Depth" = 2
 
 [categories]
 	Automation = false
@@ -461,9 +463,6 @@
 		"Logs To Chests" = true
 		#Can torches can be used as fuel in furnaces?
 		"Torches Burn" = true
-
-	[tweaks.note_block_mob_sounds]
-		"Enable Vocaloid" = true
 
 [world]
 	"Big Dungeon" = true

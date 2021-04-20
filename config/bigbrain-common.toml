@@ -21,6 +21,10 @@
 [animals]
 	#Any mob id in this list will not attempt to find an area to stay in while it's raining or at night.
 	"Animal BlackList" = ["minecraft:fox", "minecraft:cat", "minecraft:bee", "minecraft:wolf"]
+	#Any mob id in this list will not attempt to find an area to stay in while it's night.
+	"Animal Night BlackList" = ["minecraft:cat"]
+	#Any mob id in this list will not attempt to find an area to stay in while it's raining.
+	"Animal Raining BlackList" = []
 
 	[animals.pigs]
 		#Range: > -2147483648

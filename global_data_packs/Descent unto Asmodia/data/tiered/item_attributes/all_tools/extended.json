@@ -1,0 +1,113 @@
+{
+  "id": "tiered:extended",
+  "verifiers": [
+    {
+      "tag": "spartanweaponry:longswords"
+    },
+    {
+      "tag": "spartanweaponry:daggers"
+    },
+    {
+      "tag": "spartanweaponry:katanas"
+    },
+    {
+      "tag": "spartanweaponry:sabers"
+    },
+    {
+      "tag": "spartanweaponry:rapiers"
+    },
+    {
+      "tag": "spartanweaponry:greatswords"
+    },
+    {
+      "tag": "spartanweaponry:clubs"
+    },
+    {
+      "tag": "spartanweaponry:cestusae"
+    },
+    {
+      "tag": "spartanweaponry:battle_hammers"
+    },
+    {
+      "tag": "spartanweaponry:warhammers"
+    },
+    {
+      "tag": "spartanweaponry:spears"
+    },
+    {
+      "tag": "spartanweaponry:halberds"
+    },
+    {
+      "tag": "spartanweaponry:pikes"
+    },
+    {
+      "tag": "spartanweaponry:lances"
+    },
+    {
+      "tag": "spartanweaponry:throwing_knives"
+    },
+    {
+      "tag": "spartanweaponry:tomahawks"
+    },
+    {
+      "tag": "spartanweaponry:javelins"
+    },
+    {
+      "tag": "spartanweaponry:boomerangs"
+    },
+    {
+      "tag": "spartanweaponry:battleaxes"
+    },
+    {
+      "tag": "spartanweaponry:flanged_maces"
+    },
+    {
+      "tag": "spartanweaponry:glaives"
+    },
+    {
+      "tag": "spartanweaponry:quarterstaff"
+    },
+    {
+      "tag": "forge:swords"
+    },
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "tag": "forge:pickaxes"
+    },
+    {
+      "tag": "forge:shovels"
+    },
+    {
+      "tag": "forge:hoes"
+    }
+  ],
+  "style": {
+    "color": "dark_purple"
+  },
+  "attributes": [
+    {
+      "type": "reach-entity-attributes:reach",
+      "modifier": {
+        "name": "tiered:extended",
+        "operation": "ADDITION",
+        "amount": 1
+      },
+      "optional_equipment_slots": [
+        "MAINHAND"
+      ]
+    },
+    {
+      "type": "reach-entity-attributes:attack_range",
+      "modifier": {
+        "name": "tiered:extended",
+        "operation": "ADDITION",
+        "amount": 1
+      },
+      "optional_equipment_slots": [
+        "MAINHAND"
+      ]
+    }
+  ]
+}

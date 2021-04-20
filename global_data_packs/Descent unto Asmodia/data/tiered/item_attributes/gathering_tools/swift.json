@@ -1,0 +1,44 @@
+{
+  "id": "tiered:swift",
+  "verifiers": [
+    {
+      "tag": "spartanweaponry:battleaxes"
+    },
+    {
+      "tag": "forge:pickaxes"
+    },
+    {
+      "tag": "forge:shovels"
+    },
+    {
+      "tag": "forge:axes"
+    }
+  ],
+  "style": {
+    "color": "yellow"
+  },
+  "attributes": [
+    {
+      "type": "unionlib:generic.dig_speed",
+      "modifier": {
+        "name": "tiered:swift",
+        "operation": "MULTIPLY_TOTAL",
+        "amount": 0.10
+      },
+      "optional_equipment_slots": [
+        "MAINHAND"
+      ]
+    },
+    {
+      "type": "generic.movement_speed",
+      "modifier": {
+        "name": "tiered:swift",
+        "operation": "MULTIPLY_TOTAL",
+        "amount": 0.10
+      },
+      "optional_equipment_slots": [
+        "MAINHAND"
+      ]
+    }
+  ]
+}

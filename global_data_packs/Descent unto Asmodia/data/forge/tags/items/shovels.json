@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel",
+    "moat:tin_shovel",
+    "moat:copper_shovel",
+    "moat:bronze_shovel",
+    "moat:lead_shovel",
+    "moat:steel_shovel",
+    "moat:silver_shovel",
+    "moat:platinum_shovel",
+    "undergarden:cloggrum_shovel",
+    "undergarden:froststeel_shovel",
+    "undergarden:utheric_shovel",
+    "undergarden:forgotten_shovel",
+    "betterendforge:aeternium_shovel",
+    "betterendforge:thallasium_shovel",
+    "betterendforge:terminite_shovel",
+    "upgradednetherite:gold_upgraded_netherite_shovel",
+    "upgradednetherite:fire_upgraded_netherite_shovel",
+    "upgradednetherite:ender_upgraded_netherite_shovel",
+    "upgradednetherite:water_upgraded_netherite_shovel",
+    "upgradednetherite:phantom_upgraded_netherite_shovel",
+    "upgradednetherite:feather_upgraded_netherite_shovel",
+    "gildedingot:gilded_shovel"
+  ]
+}
