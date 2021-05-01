@@ -1,5 +1,328 @@
 {
   "name": "The Geology Department",
-  "quests": [],
+  "quests": [
+    {
+      "uuid": "b1817d6a-31d2-4ff5-ad46-3e1ef9a93bac",
+      "name": "Sample Stone",
+      "description": "Unnamed quest",
+      "x": 18,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:cobblestone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cobblestone",
+                "Count": 16
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8ff965b5-2e2d-4558-b5c9-c7317a89b6ae",
+      "name": "Nether Materials",
+      "description": "Unnamed quest",
+      "x": 99,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:quartz",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:quartz",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:ancient_debris",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "df2d8230-ef33-4581-9e1a-da5cc94610e9",
+      "name": "Base Metals",
+      "description": "Unnamed quest",
+      "x": 72,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:iron_ore",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:iron_ore",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:gold_ore",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "moat:tin_ore",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "moat:copper_ore",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "moat:lead_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "moat:silver_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "moat:platinum_ore",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2715d28c-f00a-4afd-9ec8-fdb05bea02cb",
+      "name": "Base Materials",
+      "description": "Unnamed quest",
+      "x": 45,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:coal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:coal",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:flint",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:redstone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:lapis_lazuli",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:diamond",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "sulfurpotassiummod:sulfur_item",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "sulfurpotassiummod:potassium_item",
+                "Count": 1
+              },
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:emerald",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "914caf6c-cdc6-4b1c-b5bd-b097d23af356",
+      "name": "Stone Types",
+      "description": "Unnamed quest",
+      "x": 18,
+      "y": 44,
+      "icon": {
+        "id": "buildersplus:marble",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "crumbs:cobbled_granite",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "crumbs:cobbled_diorite",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "crumbs:cobbled_andesite",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "quark:brimstone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "buildersplus:marble",
+                "Count": 16
+              },
+              "required": 16,
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "buildersplus:limestone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "quark:jasper",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "quark:slate",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "minecraft:sandstone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "minecraft:red_sandstone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "biomesoplenty:white_sandstone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "biomesoplenty:orange_sandstone",
+                "Count": 16
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "biomesoplenty:black_sandstone",
+                "Count": 16
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
   "reputationBar": []
 }

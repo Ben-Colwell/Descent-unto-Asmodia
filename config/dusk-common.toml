@@ -1,0 +1,8 @@
+
+["Dusk settings"]
+	#Disable sleeping?, default: false
+	disableSleep = false
+	#Percentage of how many more monster can appear at night, default: 30
+	#Range: 1 ~ 5000
+	nightSpawnMod = 100
+

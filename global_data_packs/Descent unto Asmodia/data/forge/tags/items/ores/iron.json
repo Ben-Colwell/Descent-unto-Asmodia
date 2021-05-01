@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:iron_ore_granite",
+        "osv:iron_ore_buildersplus_basalt",
+        "osv:iron_ore_quark_marble",
+        "osv:iron_ore_buildersplus_gabbro",
+        "osv:iron_ore_andesite",
+        "osv:iron_ore_buildersplus_marble",
+        "osv:iron_ore",
+        "osv:iron_ore_quark_slate",
+        "osv:iron_ore_diorite",
+        "osv:iron_ore_quark_limestone",
+        "osv:iron_ore_quark_jasper",
+        "osv:iron_ore_buildersplus_limestone",
+        "osv:iron_ore_buildersplus_dacite"
+    ]
+}

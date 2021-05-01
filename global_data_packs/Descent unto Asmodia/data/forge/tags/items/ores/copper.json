@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:moat_copper_ore_granite",
+        "osv:moat_copper_ore_buildersplus_basalt",
+        "osv:moat_copper_ore_quark_marble",
+        "osv:moat_copper_ore_buildersplus_gabbro",
+        "osv:moat_copper_ore_andesite",
+        "osv:moat_copper_ore_buildersplus_marble",
+        "osv:moat_copper_ore",
+        "osv:moat_copper_ore_quark_slate",
+        "osv:moat_copper_ore_diorite",
+        "osv:moat_copper_ore_quark_limestone",
+        "osv:moat_copper_ore_quark_jasper",
+        "osv:moat_copper_ore_buildersplus_limestone",
+        "osv:moat_copper_ore_buildersplus_dacite"
+    ]
+}

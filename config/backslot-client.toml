@@ -11,12 +11,12 @@
 	[backslot.gui]
 		#Set this to true if you want to enable access to the GUI.
 		enableGui = true
-		#Set the x offset of the button location.
-		#Range: 0 ~ 159
-		xOffset = 154
 		#Set the y offset of the button location.
 		#Range: 0 ~ 149
 		yOffset = 5
+		#Set the x offset of the button location.
+		#Range: 0 ~ 159
+		xOffset = 154
 
 	#Render Settings
 	[backslot.render]

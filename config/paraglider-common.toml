@@ -4,7 +4,7 @@ forceFlightDisabled = true
 
 [debug]
 	debugPlayerMovement = false
+	traceVesselPacket = false
 	traceMovementPacket = false
 	traceParaglidingPacket = false
-	traceVesselPacket = false
 

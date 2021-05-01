@@ -24,24 +24,24 @@
 	EnableBreakEnderArmor = true
 
 ["Water Armor Effect Options"]
+	#How many durability damage take the Water Upgraded Armor when protect the player ? 
+	#Range: 1 ~ 100
+	DamageDurabilityWaterArmor = 1
 	#Water Upgraded Armor loose durability when protect the player ? 
 	EnableDamageDurabilityWaterArmor = false
 	#How many tick between durability damage for the Water Upgraded Armor when it protect the player ? (20ticks = 1sec)
 	#Range: 1 ~ 1000
 	DelayDamageDurabilityWaterArmor = 20
-	#How many durability damage take the Water Upgraded Armor when protect the player ? 
-	#Range: 1 ~ 100
-	DamageDurabilityWaterArmor = 1
 
 ["Wither Armor Effect Options"]
-	#Wither Upgraded Armor loose durability when protect the player ? 
-	EnableDamageDurabilityWitherArmor = false
-	#How many tick between durability damage for the Wither Upgraded Armor when it protect the player ? (20ticks = 1sec)
-	#Range: 1 ~ 1000
-	DelayDamageDurabilityWitherArmor = 20
 	#How many durability damage take the Wither Upgraded Armor when protect the player ? 
 	#Range: 1 ~ 100
 	DamageDurabilityWitherArmor = 5
+	#How many tick between durability damage for the Wither Upgraded Armor when it protect the player ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityWitherArmor = 20
+	#Wither Upgraded Armor loose durability when protect the player ? 
+	EnableDamageDurabilityWitherArmor = false
 
 ["Poison Armor Effect Options"]
 	#Poison Upgraded Armor loose durability when protect the player ? 
@@ -61,16 +61,16 @@
 	MultiplierDamageDurabilityPhantomArmor = 1
 
 ["Feather Armor Effect Options"]
-	#Feather Upgraded Armor loose durability when the player walk on water ? 
-	EnableWaterDamageDurabilityFeatherArmor = false
-	#Feather Upgraded Armor loose durability when the player walk on lava ? 
-	EnableLavaDamageDurabilityFeatherArmor = true
 	#Feather Upgraded Armor loose durability when the player slow falling ? 
 	EnableFallDamageDurabilityFeatherArmor = false
-	#How many tick between durability damage for the Feather Upgraded Armor when the player walk on water/lava or slow falling ? (20ticks = 1sec)
-	#Range: 1 ~ 1000
-	DelayDamageDurabilityFeatherArmor = 20
 	#How many durability damage take the Feather Upgraded Armor when the player walk on water/lava or slow falling ? 
 	#Range: 1 ~ 100
 	DamageDurabilityFeatherArmor = 1
+	#Feather Upgraded Armor loose durability when the player walk on water ? 
+	EnableWaterDamageDurabilityFeatherArmor = false
+	#How many tick between durability damage for the Feather Upgraded Armor when the player walk on water/lava or slow falling ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityFeatherArmor = 20
+	#Feather Upgraded Armor loose durability when the player walk on lava ? 
+	EnableLavaDamageDurabilityFeatherArmor = true
 

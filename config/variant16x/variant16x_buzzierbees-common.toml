@@ -12,11 +12,6 @@
 		#Enables/Disables ALL Miscellaneous Variants
 		enableMiscellaneous = true
 
-	#Custom Pressure Plate Settings
-	[variant16x_buzzierbees.pressurePlates]
-		#Enables/Disables Honeycomb Pressure Plates Variants
-		enableHoneycombPressurePlates = true
-
 	#Custom Button Settings
 	[variant16x_buzzierbees.buttons]
 		#Enables/Disables Honeycomb Button Variants
@@ -27,4 +22,9 @@
 		#Enables/Disables Scented Candle Variants
 		#NOTE: 'enableSmallFlowers' in 'variant16x-common.toml' MUST be set to TRUE!
 		enableScentedCandles = true
+
+	#Custom Pressure Plate Settings
+	[variant16x_buzzierbees.pressurePlates]
+		#Enables/Disables Honeycomb Pressure Plates Variants
+		enableHoneycombPressurePlates = true
 

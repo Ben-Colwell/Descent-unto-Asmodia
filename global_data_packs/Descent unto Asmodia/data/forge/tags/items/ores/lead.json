@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:moat_lead_ore_granite",
+        "osv:moat_lead_ore_buildersplus_basalt",
+        "osv:moat_lead_ore_quark_marble",
+        "osv:moat_lead_ore_buildersplus_gabbro",
+        "osv:moat_lead_ore_andesite",
+        "osv:moat_lead_ore_buildersplus_marble",
+        "osv:moat_lead_ore",
+        "osv:moat_lead_ore_quark_slate",
+        "osv:moat_lead_ore_diorite",
+        "osv:moat_lead_ore_quark_limestone",
+        "osv:moat_lead_ore_quark_jasper",
+        "osv:moat_lead_ore_buildersplus_limestone",
+        "osv:moat_lead_ore_buildersplus_dacite"
+    ]
+}

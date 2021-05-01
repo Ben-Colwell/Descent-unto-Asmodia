@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:diamond_ore_granite",
+        "osv:diamond_ore_buildersplus_basalt",
+        "osv:diamond_ore_quark_marble",
+        "osv:diamond_ore_buildersplus_gabbro",
+        "osv:diamond_ore_andesite",
+        "osv:diamond_ore_buildersplus_marble",
+        "osv:diamond_ore",
+        "osv:diamond_ore_quark_slate",
+        "osv:diamond_ore_diorite",
+        "osv:diamond_ore_quark_limestone",
+        "osv:diamond_ore_quark_jasper",
+        "osv:diamond_ore_buildersplus_limestone",
+        "osv:diamond_ore_buildersplus_dacite"
+    ]
+}

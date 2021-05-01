@@ -1,0 +1,8 @@
+
+[General]
+	#The default level of the effects the mod applies, by default 1.
+	#Range: 1 ~ 50
+	potionEffectLevel = 1
+	#When enabled, hides the particles from the mobs with an effect.
+	hideEffectParticles = true
+

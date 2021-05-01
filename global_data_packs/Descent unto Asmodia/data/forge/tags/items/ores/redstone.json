@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:redstone_ore_granite",
+        "osv:redstone_ore_buildersplus_basalt",
+        "osv:redstone_ore_quark_marble",
+        "osv:redstone_ore_buildersplus_gabbro",
+        "osv:redstone_ore_andesite",
+        "osv:redstone_ore_buildersplus_marble",
+        "osv:redstone_ore",
+        "osv:redstone_ore_quark_slate",
+        "osv:redstone_ore_diorite",
+        "osv:redstone_ore_quark_limestone",
+        "osv:redstone_ore_quark_jasper",
+        "osv:redstone_ore_buildersplus_limestone",
+        "osv:redstone_ore_buildersplus_dacite"
+    ]
+}

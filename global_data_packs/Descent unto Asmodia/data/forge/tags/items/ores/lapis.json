@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:lapis_ore_granite",
+        "osv:lapis_ore_buildersplus_basalt",
+        "osv:lapis_ore_quark_marble",
+        "osv:lapis_ore_buildersplus_gabbro",
+        "osv:lapis_ore_andesite",
+        "osv:lapis_ore_buildersplus_marble",
+        "osv:lapis_ore",
+        "osv:lapis_ore_quark_slate",
+        "osv:lapis_ore_diorite",
+        "osv:lapis_ore_quark_limestone",
+        "osv:lapis_ore_quark_jasper",
+        "osv:lapis_ore_buildersplus_limestone",
+        "osv:lapis_ore_buildersplus_dacite"
+    ]
+}

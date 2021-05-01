@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "osv:coal_ore_granite",
+        "osv:coal_ore_buildersplus_basalt",
+        "osv:coal_ore_quark_marble",
+        "osv:coal_ore_buildersplus_gabbro",
+        "osv:coal_ore_andesite",
+        "osv:coal_ore_buildersplus_marble",
+        "osv:coal_ore",
+        "osv:coal_ore_quark_slate",
+        "osv:coal_ore_diorite",
+        "osv:coal_ore_quark_limestone",
+        "osv:coal_ore_quark_jasper",
+        "osv:coal_ore_buildersplus_limestone",
+        "osv:coal_ore_buildersplus_dacite"   
+    ]
+}

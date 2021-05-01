@@ -1,0 +1,16 @@
+
+["Hostile Villages settings"]
+	#Percentage of how likely normal,non-zombie villages are to spawn. default: 0
+	#Range: 0 ~ 100
+	vanillaVillageChance = 10
+	#Set higher to increase the generated population of the hostile village, default: 5
+	#Range: 1 ~ 100
+	hostilePopulationSize = 40
+	#Whether to generate extra loot for the village, default: true
+	generateLoot = false
+	#List of loottables to use, default: minecraft:chests/simple_dungeon
+	loottables = ["minecraft:chests/simple_dungeon"]
+	#Whether to allow vanilla villagers to spawn at all, default: false
+	allowVanillaVillagerSpawn = false
+	#List of entity pairs which spawn in villages. Format = entity1;entity2;5;6   5 is the chance of entity2(one in five), 6 is the total weight of this whole entry to be chosen
+	villageEntityTypes = ["minecraft:zombie;dannys_expansion:ghoul;3;3", "minecraft:skeleton;minecraft:cave_spider;2;3", "minecraft:husk;minecraft:spider;3;3", "minecraft:vindicator;minecraft:illusioner;5;2", "minecraft:pillager;minecraft:evoker;7;2", "undergarden:rotwalker;undergarden:rotbeast;4,1]

@@ -1,22 +1,22 @@
 
 ["Overworld Spawning"]
-	Enabled = true
 	#Range: 0 ~ 200
 	"Spawn Weight" = 50
+	Enabled = true
 	#Range: 0 ~ 10
 	"Max Group Size" = 2
 
 ["Nether Spawning"]
-	Enabled = true
 	#Range: 0 ~ 100
 	"Spawn Weight" = 30
+	Enabled = true
 	#Range: 0 ~ 10
 	"Max Group Size" = 2
 
 ["End Spawning"]
-	Enabled = true
 	#Range: 0 ~ 100
 	"Spawn Weight" = 5
+	Enabled = true
 	#Range: 0 ~ 10
 	"Max Group Size" = 3
 
