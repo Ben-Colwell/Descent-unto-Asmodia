@@ -1,59 +1,81 @@
 {
   "commonHelmets": {
     "entries": {
-      "carved_pumpkin": 0.01,
-      "iron_helmet": 0.3,
-      "chainmail_helmet": 0.3,
-      "leather_helmet": 0.1
+      "chainmail_helmet": 0.1,
+      "iron_helmet": 0.1,
+      "moat:tin_helmet": 0.1,
+      "moat:copper_helmet": 0.1,
+      "moat:bronze_helmet": 0.1,
+      "moat:steel_helmet": 0.1
     },
     "defaultItem": "air"
   },
   "rareHelmets": {
     "entries": {
-      "diamond_helmet": 0.3,
-      "carved_pumpkin": 0.2
+      "diamond_helmet": 0.1,
+      "moat:silver_helmet": 0.2,
+      "moat:platinum_helmet": 0.1,
+      "moat:lead_helmet": 0.1
     },
     "defaultItem": "air"
   },
   "commonChestplates": {
     "entries": {
-      "leather_chestplate": 0.1,
-      "iron_chestplate": 0.3,
-      "chainmail_chestplate": 0.3
+      "chainmail_chestplate": 0.1,
+      "iron_chestplate": 0.1,
+      "moat:tin_chestplate": 0.1,
+      "moat:copper_chestplate": 0.1,
+      "moat:bronze_chestplate": 0.1,
+      "moat:steel_chestplate": 0.1
     },
     "defaultItem": "air"
   },
   "rareChestplates": {
     "entries": {
-      "diamond_chestplate": 0.3
+      "diamond_chestplate": 0.1,
+      "moat:silver_chestplate": 0.2,
+      "moat:platinum_chestplate": 0.1,
+      "moat:lead_chestplate": 0.1
     },
     "defaultItem": "air"
   },
   "commonLeggings": {
     "entries": {
-      "iron_leggings": 0.3,
-      "chainmail_leggings": 0.3,
-      "leather_leggings": 0.1
+      "chainmail_leggings": 0.1,
+      "iron_leggings": 0.1,
+      "moat:tin_leggings": 0.1,
+      "moat:copper_leggings": 0.1,
+      "moat:bronze_leggings": 0.1,
+      "moat:steel_leggings": 0.1
     },
     "defaultItem": "air"
   },
   "rareLeggings": {
     "entries": {
-      "diamond_leggings": 0.3
+      "diamond_leggings": 0.1,
+      "moat:silver_leggings": 0.2,
+      "moat:platinum_leggings": 0.1,
+      "moat:lead_leggings": 0.1
     },
     "defaultItem": "air"
   },
   "commonBoots": {
     "entries": {
-      "chainmail_boots": 0.3,
-      "leather_boots": 0.1,
-      "iron_boots": 0.3
+      "chainmail_boots": 0.1,
+      "iron_boots": 0.1,
+      "moat:tin_leggings": 0.1,
+      "moat:copper_boots": 0.1,
+      "moat:bronze_leggings": 0.1,
+      "moat:steel_boots": 0.1
     },
     "defaultItem": "air"
   },
   "rareBoots": {
     "entries": {
-      "diamond_boots": 0.3
+      "diamond_boots": 0.1,
+      "moat:silver_boots": 0.2,
+      "moat:platinum_boots": 0.1,
+      "moat:lead_boots": 0.1
     },
     "defaultItem": "air"
   }

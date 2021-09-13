@@ -15,6 +15,8 @@
     variantsDropWithSilkTouch: true
      # Whether to allow silverfish to enter into any infested variants.
     mapInfestedVariants: true
+     # Whether to skip over any invalid presets and simply not load them.
+    ignoreInvalidPresets: false
   }
   denseOres: {
      # Adds a dense variant of every ore. Drops 1-3 x each original drop.
@@ -87,6 +89,11 @@
         quark:marble
         quark:slate
       ]
+      byg: [
+        byg:rocky_stone
+        byg:scoria_stone
+        byg:soapstone
+      ]
     }
     propertyGroups: {
       minecraft: [
@@ -121,7 +128,21 @@
         iceandfire_sapphire_ore
         iceandfire_silver_ore
       ]
+      byg: [
+        byg_pendorite_ore
+      ]
+      druidcraft: [
+        druidcraft_amber_ore
+        druidcraft_fiery_glass_ore
+        druidcraft_moonstone_ore
+        druidcraft_rockroot_ore
+      ]
     }
+     # Whether to skip over and not load an entries that are simply invalid.
+     # Please consider this carefully. If you encounter any issues in game
+     # such as missing blocks and other unexpected behaviors, it may be because
+     # you have this value enabled.
+    ignoreInvalidEntries: false
   }
   modSupport: {
     minecraft: true
@@ -129,6 +150,8 @@
     simpleores: false
     quark: true
     iceandfire: false
+    byg: true
+    druidcraft: true
   }
   worldGen: {
      # Whether ores should spawn according to specific biomes vs. anywhere.
@@ -147,5 +170,23 @@
     deferOresWhen: [
       quark
     ]
+  }
+  general: {
+     # Whether to regenerate resources if config/osv/resources already
+     # exists. You may consider disabling this feature if you already
+     # have resources and want to speed up your game load time.
+    generateResources: true
+  }
+  tags: {
+     # Whether to copy any block tags at all for ore variants.
+    copyBlockTags: true
+     # Whether to copy any item tags at all for ore variants.
+    copyItemTags: true
+     # Whether tags should be copied from background blocks.
+    copyBgTags: false
+     # Whether tags should be copied from foreground blocks.
+    copyFgTags: true
+     # Whether regular tags should be copied for dense variant blocks and items.
+    copyDenseTags: true
   }
 }

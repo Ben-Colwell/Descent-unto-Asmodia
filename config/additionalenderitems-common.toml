@@ -34,7 +34,7 @@
 	disenchanting_treasure_item_penalty = true
 	#Controls the amount of phantom membrane that will be required for the disenchantment if the above variable is set to TRUE
 	#Range: > 1
-	disenchanting_phantom_membrane_static_cost = 3
+	disenchanting_phantom_membrane_static_cost = 5
 	#Controls whether cursed enchantments on items will require additional experience to remove
 	disenchanting_cursed_item_penalty = true
 	#Decides whether disenchanting takes a set amount of phantom membrane, or costs 1 membrane per enchantment level

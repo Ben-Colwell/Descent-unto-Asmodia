@@ -1,0 +1,24 @@
+{
+"criteria": {
+"end_crystal_fragment": {
+"trigger": "minecraft:inventory_changed",
+"conditions": {
+"items": [
+{
+"item": "endrem:end_crystal_fragment"
+}
+]
+}
+}
+},
+  "rewards": {
+    "recipes": [
+     "endrem:end_crystal_eye"
+    ]
+  },
+  "requirements": [
+    [
+      "end_crystal_fragment"
+    ]
+  ]
+}

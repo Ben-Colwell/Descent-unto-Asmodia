@@ -11,6 +11,13 @@
         "negate": false,
         "value": "swamp"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "biomesoplenty:tundra_bog"
+      }
     ]
   ]
 }

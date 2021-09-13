@@ -1,72 +1,49 @@
- [[effects]]
-    [[effects.status_effects]]
-        name = "minecraft:slowness"
-        power = 3
-    [[effects.status_effects]]
-        name = "minecraft:weakness"
-        power = 3
+[[effects]]
+    [[effects.attributes]]
+        name = "minecraft:generic.max_health"
+        operation = "add"
+        amount = 2.0
+    [[effects.attributes]]
+        name = "minecraft:generic.attack_damage"
+        operation = "add"
+        amount = 2.0
+    [[effects.attributes]]
+        name = "minecraft:generic.attack_speed"
+        operation = "multiply_total"
+        amount = 0.1
     [[effects.conditions]]
-        groups = ["proteins", "grains", "fruits", "vegetables"]
-        match = "any"
-        above = 0.0
-        below = 0.1
- [[effects]]
-    [[effects.status_effects]]
-        name = "minecraft:slowness"
-        power = 2
-    [[effects.status_effects]]
-        name = "minecraft:weakness"
-        power = 2
-    [[effects.conditions]]
-        groups = ["proteins", "grains", "fruits", "vegetables"]
-        match = "any"
-        above = 0.1
-        below = 0.2
- [[effects]]
-    [[effects.status_effects]]
-        name = "minecraft:slowness"
-        power = 1
-    [[effects.status_effects]]
-        name = "minecraft:weakness"
-        power = 1
-    [[effects.conditions]]
-        groups = ["proteins", "grains", "fruits", "vegetables"]
-        match = "any"
-        above = 0.2
-        below = 0.3
- [[effects]]
-    [[effects.status_effects]]
-        name = "minecraft:hunger"
-        power = 0
-    [[effects.status_effects]]
-        name = "minecraft:nausea"
-        power = 0
-    [[effects.conditions]]
-        groups = ["sugars"]
-        match = "any"
-        above = 0.7
-        below = 0.8
- [[effects]]
-    [[effects.status_effects]]
-        name = "minecraft:hunger"
-        power = 1
-    [[effects.status_effects]]
-        name = "minecraft:nausea"
-        power = 1
-    [[effects.conditions]]
-        groups = ["sugars"]
-        match = "any"
+        groups = ["proteins", "fruits", "vegetables", "grains"]
+        match = "all"
         above = 0.8
-        below = 0.9
- [[effects]]
+        below = 1.0
+[[effects]]
+    [[effects.attributes]]
+        name = "minecraft:generic.max_health"
+        operation = "add"
+        amount = 2.0
+    [[effects.attributes]]
+        name = "minecraft:generic.knockback_resistance"
+        operation = "add"
+        amount = 0.10
+    [[effects.attributes]]
+        name = "minecraft:generic.armor_toughness"
+        operation = "add"
+        amount = 1.0
+    [[effects.conditions]]
+        groups = ["proteins", "fruits", "vegetables", "grains"]
+        match = "every"
+        above = 0.8
+        below = 1.0
+[[effects]]
+    [[effects.attributes]]
+        name = "minecraft:generic.movement_speed"
+        operation = "multiply_base"
+        amount = 0.25
     [[effects.status_effects]]
         name = "minecraft:hunger"
-        power = 2
-    [[effects.status_effects]]
-        name = "minecraft:nausea"
-        power = 2
+        power = 3
     [[effects.conditions]]
         groups = ["sugars"]
-        match = "any"
-        above = 0.9
+        match = "all"
+        above = 0.8
         below = 1.0

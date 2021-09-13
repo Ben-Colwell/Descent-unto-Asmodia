@@ -1,5 +1,4 @@
-//Invar
-
+//Spartan Weapons
 mods.jei.JEI.hideItem(<item:spartanweaponry:dagger_invar>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:longsword_invar>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:katana_invar>);
@@ -22,7 +21,6 @@ mods.jei.JEI.hideItem(<item:spartanweaponry:battleaxe_invar>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:flanged_mace_invar>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:glaive_invar>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:quarterstaff_invar>);
-//Electrum
 
 mods.jei.JEI.hideItem(<item:spartanweaponry:dagger_electrum>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:longsword_electrum>);
@@ -46,8 +44,6 @@ mods.jei.JEI.hideItem(<item:spartanweaponry:battleaxe_electrum>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:flanged_mace_electrum>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:glaive_electrum>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:quarterstaff_electrum>);
-
-//Nickel
 
 mods.jei.JEI.hideItem(<item:spartanweaponry:dagger_nickel>);
 mods.jei.JEI.hideItem(<item:spartanweaponry:longsword_nickel>);

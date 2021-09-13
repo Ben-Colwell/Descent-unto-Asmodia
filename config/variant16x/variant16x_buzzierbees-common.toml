@@ -1,9 +1,10 @@
 
 #'Variant16x: Buzzier Bees' Common Configuration File | Game Version: 1.16.5
+#'Variant16x: Buzzier Bees' Settings
 [variant16x_buzzierbees]
 
 	#General Settings
-	#NOTE: Changing 'General Settings' WILL OVERRIDE Custom Settings!
+	#These options will OVERRIDE any Custom Settings!
 	[variant16x_buzzierbees.general]
 		#Enables/Disables ALL Pressure Plate Variants
 		enablePressurePlates = true
@@ -12,19 +13,23 @@
 		#Enables/Disables ALL Miscellaneous Variants
 		enableMiscellaneous = true
 
-	#Custom Button Settings
-	[variant16x_buzzierbees.buttons]
-		#Enables/Disables Honeycomb Button Variants
-		enableHoneycombButtons = true
+	#Custom Settings
+	#These options allow for more in-depth configuring.
+	[variant16x_buzzierbees.custom]
 
-	#Custom Miscellaneous Settings
-	[variant16x_buzzierbees.miscellaneous]
-		#Enables/Disables Scented Candle Variants
-		#NOTE: 'enableSmallFlowers' in 'variant16x-common.toml' MUST be set to TRUE!
-		enableScentedCandles = true
+		#Custom Pressure Plate Settings
+		[variant16x_buzzierbees.custom.pressurePlates]
+			#Enables/Disables Honeycomb Pressure Plates Variants
+			enableHoneycombPressurePlates = true
 
-	#Custom Pressure Plate Settings
-	[variant16x_buzzierbees.pressurePlates]
-		#Enables/Disables Honeycomb Pressure Plates Variants
-		enableHoneycombPressurePlates = true
+		#Custom Button Settings
+		[variant16x_buzzierbees.custom.buttons]
+			#Enables/Disables Honeycomb Button Variants
+			enableHoneycombButtons = true
+
+		#Custom Miscellaneous Settings
+		[variant16x_buzzierbees.custom.miscellaneous]
+			#Enables/Disables Scented Candle Variants
+			#Requires 'enableSmallFlowers' in 'variant16x-common.toml' to be TRUE!
+			enableScentedCandles = true
 

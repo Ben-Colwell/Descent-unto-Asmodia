@@ -16,6 +16,13 @@
         "negate": true,
         "value": "cold"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "biomesoplenty:tundra_bog"
+      }
     ]
   ]
 }

@@ -1,5 +1,4 @@
-//Remove from JEI
-
+//Behgameon
 mods.jei.JEI.hideItem(<item:behgameon:shield1>);
 mods.jei.JEI.hideItem(<item:behgameon:shield2>);
 mods.jei.JEI.hideItem(<item:behgameon:shield3>);
